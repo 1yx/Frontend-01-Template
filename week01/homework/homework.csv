@@ -1,60 +1,552 @@
-github_username,commited_time,user_number,real_name,classroom,group_name,homework_link
-kelly422,2020-03-25T02:34:09Z,G20190343010759,宇曦,4班,1组,https://github.com/kelly422/Frontend-01-Template/blob/master/week01/
-GeekUniversityGeekUniversity,2020-03-25T02:52:41Z,,,,,
-JTR354,2020-04-05T12:18:56Z,G20200447010216,李鑫,1班,北广深不相信眼泪,https://github.com/JTR354/Frontend-01-Template/blob/master/week01/
-nsuedu,2020-04-06T15:28:29Z,G20200447010854,古月,4班,1组,https://github.com/nsuedu/Frontend-01-Template/blob/master/week01/
-lijinhai255,2020-04-11T10:48:18Z,G20200447010622,李金海,2班,一天不学习就难受,https://github.com/lijinhai255/Frontend-01-Template/blob/master/week01/
-SwimmerRcd,2020-04-11T11:52:35Z,G20200447010712,何淦,2班,罗汉队,https://github.com/SwimmerRcd/Frontend-01-Template/blob/master/week01/
-vurtnr,2020-04-11T12:51:53Z,G20200447010281,焦玉旻,1班,,https://github.com/vurtnr/Frontend-01-Template/blob/master/week01/
-LaiYuZe,2020-04-11T14:01:06Z,G20200447010698,赖雨泽,3班,,https://github.com/LaiYuZe/Frontend-01-Template/blob/master/week01/
-jay0815,2020-04-11T16:20:25Z,G20200447010276,钱冠丞,1班,广东梯队,https://github.com/jay0815/Frontend-01-Template/blob/master/week01/
-apacheao,2020-04-12T08:00:14Z,G20200447010336,敖志强,1班,广东梯队,https://github.com/apacheao/Frontend-01-Template/blob/master/week01/
-yq777,2020-04-12T08:33:12Z,G20200447010385,尧钦,5班,5组,https://github.com/yq777/Frontend-01-Template/blob/master/week01/
-chengqiwu,2020-04-12T08:51:56Z,G20200447010604,巫城其,四班,8组,https://github.com/chengqiwu/Frontend-01-Template/blob/master/week01/
-Cangyang,2020-04-12T09:50:45Z,G20200447010350,杨腾飞,5班,1组,https://github.com/Cangyang/Frontend-01-Template/blob/master/week01/
-bvanjoi,2020-04-12T11:11:03Z,G20200447010569,张博涵,4班,unknown,https://github.com/bvanjoi/Frontend-01-Template/blob/master/week01/
-chencl1986,2020-04-12T11:12:45Z,G20190343010587,陈立,2班,听说你还报了算法？,https://github.com/chencl1986/Frontend-01-Template/blob/master/week01/
-moqijinxi,2020-04-12T12:46:39Z,G20200447010277,万俟槿,2班,无,https://github.com/moqijinxi/Frontend-01-Template/blob/master/week01/
-BranDanny,2020-04-12T13:09:35Z,G20200447010512,张灯,2班,无,https://github.com/BranDanny/Frontend-01-Template/blob/master/week01/
-Jerry-RL,2020-04-12T13:17:55Z,G20200447010092,李经纬,2班,这里好多女生呀,https://github.com/Jerry-RL/Frontend-01-Template/blob/master/week01/
-shuimu0579,2020-04-12T13:53:16Z,G20200447010146,吴习章,1 班,暂无,https://github.com/shuimu0579/Frontend-01-Template/blob/master/week01/
-Ele-Peng,2020-04-12T14:37:26Z,G20200447010708,彭倩,3 班,9 组,
-jerryjiao,2020-04-12T14:51:10Z,G20190343020162,焦瑞,2班,暂无,https://github.com/jerryjiao/Frontend-01-Template/blob/master/week01/
-tingfeng12,2020-04-12T15:02:17Z,G20200447010185,孙宁,5班,5组,https://github.com/tingfeng12/Frontend-01-Template/blob/master/week01/
-xieww,2020-04-12T15:04:10Z,G20200447010624,谢威望,4班,无,https://github.com/xieww/Frontend-01-Template/blob/master/week01/
-gengmingOrg,2020-04-12T15:17:38Z,G20200447010856,耿明,1班,北京梯队,https://github.com/gengmingOrg/Frontend-01-Template/blob/master/week01/
-GitLuoSiyu,2020-04-12T15:39:00Z,G20200447010064,罗思雨,4班,,https://github.com/GitLuoSiyu/Frontend-01-Template/blob/master/week01/
-7zf001,2020-04-12T15:45:13Z,G20200447010620,谭志锋,5班,null,https://github.com/7zf001/Frontend-01-Template/blob/master/week01/
-FloretPig,2020-04-12T15:52:28Z,G20200447010758,李振宇,3班,暂未分组,https://github.com/FloretPig/Frontend-01-Template/blob/master/week01/
-icebox1234,2020-04-12T15:52:40Z,G20200447010228,白玉磊,3班,3组,https://github.com/icebox1234/Frontend-01-Template/blob/master/week01/
-guohuijuan1,2020-04-12T16:00:00Z,G20200447010384,郭慧娟,4班,5组,https://github.com/guohuijuan1/Frontend-01-Template/blob/master/week01/
-TPORL,2020-04-15T15:50:42Z,G20200447010443,霍耀锋,3班,6组,https://github.com/TPORL/Frontend-01-Template/blob/master/week01/
-superlpy,2020-04-15T15:51:07Z,G20200447010693,李想,3班,8组,https://github.com/superlpy/Frontend-01-Template/blob/master/week01/
-DanielChan27,2020-04-15T15:51:33Z,G20200447010057,陈天宇,2班,江浙沪梯队,https://github.com/DanielChan27/Frontend-01-Template/blob/master/week01/
-hanx666,2020-04-15T15:54:00Z,G20200447010445,魏朝欣,5班,5组,https://github.com/hanx666/Frontend-01-Template/blob/master/week01/
-cmnoe,2020-04-15T15:54:10Z,G20200343040160,江彬,5班,7组,https://github.com/cmnoe/Frontend-01-Template/blob/master/week01/
-LOCUSTSS,2020-04-15T15:54:45Z,G20200447010407,海少,2班,扶我起来我还能学,https://github.com/LOCUSTSS/Frontend-01-Template/blob/master/week01/
-YesBelieve,2020-04-15T15:55:00Z,G20200447010172,蒋银松,2班,江浙沪梯队,https://github.com/YesBelieve/Frontend-01-Template/blob/master/week01/
-lxtiscool,2020-04-15T15:55:25Z,G20200447010236,李新天,1班,罗汉组,https://github.com/lxtiscool/Frontend-01-Template/blob/master/week01/
-shangwuzhong,2020-04-15T15:56:15Z,G20200447010595,尚武忠,5班,7组,https://github.com/shangwuzhong/Frontend-01-Template/blob/master/week01/
-zhangdongming0607,2020-04-15T15:57:16Z,G20190389010004,张三,4班,11组,https://github.com/zhangdongming0607/Frontend-01-Template/blob/master/week01/
-gzyEvolto,2020-04-15T15:57:31Z,G20200447010529,高子一,4班,7组,https://github.com/gzyEvolto/Frontend-01-Template/blob/master/week01/
-wn90674,2020-04-15T15:57:53Z,G20200447010892,吴宁,2班,罗汉队,https://github.com/wn90674/Frontend-01-Template/blob/master/week01/
-cgwhaha1993,2020-04-15T15:59:06Z,G20200447010393,陈国伟,3班,1组,
-zhihai07,2020-04-15T16:00:25Z,G20200447010902,熊志海,2班,这里好多女生,
-zhushaSARA,2020-04-15T16:00:57Z,G20200447010906,朱蕊寒,1班,北京梯队,https://github.com/zhushaSARA/Frontend-01-Template/blob/master/week01/
-royWoody,2020-04-15T16:01:59Z,G20200447010341,武洋,1班,北广深不相信眼泪,https://github.com/royWoody/Frontend-01-Template/blob/master/week01/
-seven-zero,2020-04-15T16:02:11Z,G20200447010928,雷睿祺,3班,11组,https://github.com/seven-zero/Frontend-01-Template/blob/master/week01/
-zhihai07,2020-04-15T16:02:35Z,G20200447010902,熊志海,2班,这里好多女生,https://github.com/zhihai07/Frontend-01-Template/blob/master/week01/
-DukeYang,2020-04-15T16:04:14Z,G20200343040019,刘阳,4班,3组,https://github.com/DukeYang/Frontend-01-Template/blob/master/week01/
-Cloudhp,2020-04-15T16:04:54Z,G20200447010607,胡云鹏,2班,北上广深不相信眼泪,https://github.com/Cloudhp/Frontend-01-Template/blob/master/week01/
-Jackzigen,2020-04-15T16:06:59Z,G20190343010017,韩梓根,2班,听说你还报了算法？,https://github.com/Jackzigen/Frontend-01-Template/blob/master/week01/
-ghcode,2020-04-15T16:10:23Z,G20200447010765,李帅军,5班,8组,https://github.com/ghcode/Frontend-01-Template/blob/master/week01/
-Hemingway-AT,2020-04-15T16:12:13Z,G20200447010077,贺海铭,1期2班,一天不学习就难受,https://github.com/Hemingway-AT/Frontend-01-Template/blob/master/week01/
-HESUIJUN,2020-04-15T16:20:51Z,G20200447010631,何穗君,1班,广东梯队,
-Naruto-lu,2020-04-15T16:24:48Z,G20200447010880,卢荣炜,1期5班,前端1期-5班-9组,https://github.com/Naruto-lu/Frontend-01-Template/blob/master/week01/
-PanZhiwei01,2020-04-15T16:35:34Z,G20200447010176,潘志伟,1期1班,绝对看视频组,https://github.com/PanZhiwei01/Frontend-01-Template/blob/master/week01/
-aiyamaya625,2020-04-15T16:44:58Z,G20200447010552,陈晨,2班,江浙沪梯队,https://github.com/aiyamaya625/Frontend-01-Template/blob/master/week01/
-gbcnice,2020-04-15T16:49:51Z,G20200447010869,郭柏辰,4班,10组,https://github.com/gbcnice/Frontend-01-Template/blob/master/week01/
-bearcharis,2020-04-15T16:53:57Z,G20200447010304,陈磊,4班,4组,https://github.com/bearcharis/Frontend-01-Template/blob/master/week01/
-TieriaDM,2020-04-15T16:55:26Z,G20200447010539,邓明,4班,7组,https://github.com/TieriaDM/Frontend-01-Template/blob/master/week01/
+GitHub帐号,提交issue时间,学号,姓名,班级,小组,作业&总结链接,总结的行数
+kelly422,"2020-03-25, 10:34:09",G20190343010759,宇曦,4班,1组,https://github.com/kelly422/Frontend-01-Template/blob/master/week01/,1
+,"2020-03-25, 10:52:41",,,,,,
+JTR354,"2020-04-05, 20:18:56",G20200447010216,李鑫,1班,北广深不相信眼泪,https://github.com/JTR354/Frontend-01-Template/blob/master/week01/,213
+nsuedu,"2020-04-06, 23:28:29",G20200447010854,古月,4班,1组,https://github.com/nsuedu/Frontend-01-Template/blob/master/week01/,3
+lijinhai255,"2020-04-11, 18:48:18",G20200447010622,李金海,2班,一天不学习就难受,https://github.com/lijinhai255/Frontend-01-Template/blob/master/week01/,495
+SwimmerRcd,"2020-04-11, 19:52:35",G20200447010712,何淦,2班,罗汉队,https://github.com/SwimmerRcd/Frontend-01-Template/blob/master/week01/,40
+vurtnr,"2020-04-11, 20:51:53",G20200447010281,焦玉旻,1班,,https://github.com/vurtnr/Frontend-01-Template/blob/master/week01/,28
+LaiYuZe,"2020-04-11, 22:01:06",G20200447010698,赖雨泽,3班,,https://github.com/LaiYuZe/Frontend-01-Template/blob/master/week01/,161
+jay0815,"2020-04-12, 24:20:25",G20200447010276,钱冠丞,1班,广东梯队,https://github.com/jay0815/Frontend-01-Template/blob/master/week01/,247
+apacheao,"2020-04-12, 16:00:14",G20200447010336,敖志强,1班,广东梯队,https://github.com/apacheao/Frontend-01-Template/blob/master/week01/,27
+yq777,"2020-04-12, 16:33:12",G20200447010385,尧钦,5班,5组,https://github.com/yq777/Frontend-01-Template/blob/master/week01/,6
+chengqiwu,"2020-04-12, 16:51:56",G20200447010604,巫城其,四班,8组,https://github.com/chengqiwu/Frontend-01-Template/blob/master/week01/,21
+Cangyang,"2020-04-12, 17:50:45",G20200447010350,杨腾飞,5班,1组,https://github.com/Cangyang/Frontend-01-Template/blob/master/week01/,166
+bvanjoi,"2020-04-12, 19:11:03",G20200447010569,张博涵,4班,unknown,https://github.com/bvanjoi/Frontend-01-Template/blob/master/week01/,3
+chencl1986,"2020-04-12, 19:12:45",G20190343010587,陈立,2班,听说你还报了算法？,https://github.com/chencl1986/Frontend-01-Template/blob/master/week01/,2277
+moqijinxi,"2020-04-12, 20:46:39",G20200447010277,万俟槿,2班,无,https://github.com/moqijinxi/Frontend-01-Template/blob/master/week01/,11
+BranDanny,"2020-04-12, 21:09:35",G20200447010512,张灯,2班,无,https://github.com/BranDanny/Frontend-01-Template/blob/master/week01/,216
+Jerry-RL,"2020-04-12, 21:17:55",G20200447010092,李经纬,2班,这里好多女生呀,https://github.com/Jerry-RL/Frontend-01-Template/blob/master/week01/,133
+shuimu0579,"2020-04-12, 21:53:16",G20200447010146,吴习章,1 班,暂无,https://github.com/shuimu0579/Frontend-01-Template/blob/master/week01/,17
+Ele-Peng,"2020-04-12, 22:37:26",G20200447010708,彭倩,3 班,9 组,,0
+jerryjiao,"2020-04-12, 22:51:10",G20190343020162,焦瑞,2班,暂无,https://github.com/jerryjiao/Frontend-01-Template/blob/master/week01/,17
+tingfeng12,"2020-04-12, 23:02:17",,,,,,
+xieww,"2020-04-12, 23:04:10",G20200447010624,谢威望,4班,无,,0
+gengmingOrg,"2020-04-12, 23:17:38",G20200447010856,耿明,1班,北京梯队,,0
+GitLuoSiyu,"2020-04-12, 23:39:00",G20200447010064,罗思雨,4班,,https://github.com/GitLuoSiyu/Frontend-01-Template/blob/master/week01/,150
+7zf001,"2020-04-12, 23:45:13",G20200447010620,谭志锋,5班,null,https://github.com/7zf001/Frontend-01-Template/blob/master/week01/,60
+FloretPig,"2020-04-12, 23:52:28",G20200447010758,李振宇,3班,暂未分组,https://github.com/FloretPig/Frontend-01-Template/blob/master/week01/,368
+icebox1234,"2020-04-12, 23:52:40",G20200447010228,白玉磊,3班,3组,https://github.com/icebox1234/Frontend-01-Template/blob/master/week01/,15
+guohuijuan1,"2020-04-13, 24:00:00",G20200447010384,郭慧娟,4班,5组,https://github.com/guohuijuan1/Frontend-01-Template/blob/master/week01/,77
+superlpy,"2020-04-15, 23:51:07",G20200447010693,李想,3班,8组,https://github.com/superlpy/Frontend-01-Template/blob/master/week01/,6
+JaykeyGuo,"2020-04-13, 24:06:49",G20200447010709,郭键,4班,9组,https://github.com/JaykeyGuo/Frontend-01-Template/blob/master/week01/,74
+Jupiterice,"2020-04-13, 01:05:32",G20200447010648,蔡雪,3班,,https://github.com/Jupiterice/Frontend-01-Template/blob/master/week01/,57
+rulerpe,"2020-04-13, 02:23:45",G20200447010553,陈骏,3班,暂无,https://github.com/rulerpe/Frontend-01-Template/blob/master/week01/,124
+xiayuegit,"2020-04-13, 09:30:55",G20200447010371,黄浩,1班,罗汉组,https://github.com/xiayuegit/Frontend-01-Template/blob/master/week01/,97
+shanguoteng,"2020-04-13, 11:59:06",G20200447010488,单国腾,3班,暂无,https://github.com/shanguoteng/Frontend-01-Template/blob/master/week01/,51
+CorScorpii,"2020-04-13, 12:32:56",G20200447010222,,,,,
+fuxiang123,"2020-04-13, 12:38:08",G20200447010019,付翔,4班,1组,https://github.com/fuxiang123/Frontend-01-Template/blob/master/week01/,108
+SuperJM0715,"2020-04-13, 12:49:13",G20200447010052,宋金孟,2 班,暂无,https://github.com/SuperJM0715/Frontend-01-Template/blob/master/week01/,33
+supercll,"2020-04-13, 14:36:12",G20190343020087,罗超,2班,听说你还报了算法？,https://github.com/supercll/Frontend-01-Template/blob/master/week01/,14
+luohong123,"2020-04-13, 15:58:18",G20200447010367,青成,2班,北上广深不相信眼泪,https://github.com/luohong123/Frontend-01-Template/blob/master/week01/,84
+kevin19940310,"2020-04-13, 16:05:37",G20200447010555,闫鸽,5班,6组,https://github.com/kevin19940310/Frontend-01-Template/blob/master/week01/,96
+lijiredback,"2020-04-13, 17:20:02",G20200447010308,李季,3班,5组,https://github.com/lijiredback/Frontend-01-Template/blob/master/week01/,59
+dayTimeAffect,"2020-04-13, 17:46:25",G20200447010248,邓俊,3班,4组,https://github.com/dayTimeAffect/Frontend-01-Template/blob/master/week01/,78
+JackFGreen,"2020-04-13, 18:04:23",G20200447010163,范志杰,3班,3组,https://github.com/JackFGreen/Frontend-01-Template/blob/master/week01/,114
+ZhangGuangZe,"2020-04-13, 18:11:40",G20200447010697,张光泽,2班,无,https://github.com/ZhangGuangZe/Frontend-01-Template/blob/master/week01/,46
+shineni,"2020-04-13, 19:08:36",G20200447010541,倪莹莹,1班,1组,https://github.com/shineni/Frontend-01-Template/blob/master/week01/,141
+yangdengcheng,"2020-04-13, 19:14:00",G20200447010755,杨登程,5班,无,https://github.com/yangdengcheng/Frontend-01-Template/blob/master/week01/,27
+Lawliet01,"2020-04-13, 19:42:47",G20200447010812,吴智宇,2班,？,https://github.com/Lawliet01/Frontend-01-Template/blob/master/week01/,5
+double202,"2020-04-13, 19:51:08",G20200447010242,李安,2班,,https://github.com/double202/Frontend-01-Template/blob/master/week01/,137
+suyuhuan,"2020-04-13, 20:14:29",G20200447010076,苏玉环,1班,无,https://github.com/suyuhuan/Frontend-01-Template/blob/master/week01/,513
+lfl976,"2020-04-13, 20:16:54",G20200447010141,刘福林,1班,绝对看视频组,https://github.com/lfl976/Frontend-01-Template/blob/master/week01/,5
+dreamerff,"2020-04-13, 20:20:53",G20200447010406,黄巧芬,1班,上海梯队,https://github.com/dreamerff/Frontend-01-Template/blob/master/week01/,13
+LHJMoMoDaoLai,"2020-04-13, 20:36:53",G20200447010566,刘会娟,1 班,江浙沪梯队,https://github.com/LHJMoMoDaoLai/Frontend-01-Template/blob/master/week01/,160
+3crazyspecial,"2020-04-13, 21:22:17",G20200447010033,张捷,3班,,https://github.com/3crazyspecial/Frontend-01-Template/blob/master/week01/,17
+chaosJS,"2020-04-13, 21:27:08",G20200447010699,李超,1 班,暂无,https://github.com/chaosJS/Frontend-01-Template/blob/master/week01/,46
+maodaxiong,"2020-04-13, 21:32:48",G20200447010749,熊礼义,4班,9组,https://github.com/maodaxiong/Frontend-01-Template/blob/master/week01/,146
+xinyueyuan,"2020-04-13, 22:26:48",G20200447010053,元新,3班,1组,https://github.com/xinyueyuan/Frontend-01-Template/blob/master/week01/,30
+enginecode,"2020-04-13, 22:27:57",G20200447010039,余雷,前端1期-4班,1组,https://github.com/enginecode/Frontend-01-Template/blob/master/week01/,11
+ccl921107,"2020-04-13, 22:33:14",G20200447010782,褚春雷,2班,1组,https://github.com/ccl921107/Frontend-01-Template/blob/master/week01/,1
+GHLxdy,"2020-04-13, 22:38:24",G20200447010753,郭海林,3班,9组,https://github.com/GHLxdy/Frontend-01-Template/blob/master/week01/,277
+446160375,"2020-04-13, 22:40:27",G20200447010283,殷兴平,3班,4组,https://github.com/446160375/Frontend-01-Template/blob/master/week01/,222
+whutyzy,"2020-04-13, 22:55:04",G20200447010415,叶小令,5班,5组,https://github.com/whutyzy/Frontend-01-Template/blob/master/week01/,0
+FanWalker,"2020-04-13, 22:56:14",G20200447010101,范伟均,1班,未分组,https://github.com/FanWalker/Frontend-01-Template/blob/master/week01/,40
+stormkang,"2020-04-13, 22:58:48",G20200447010516,康祥祥,1班,江浙沪梯队,https://github.com/stormkang/Frontend-01-Template/blob/master/week01/,7
+Stpcurry30,"2020-04-13, 23:02:13",G20200447010767,李晓达,2班,广东梯队,https://github.com/Stpcurry30/Frontend-01-Template/blob/master/week01/,283
+plushao,"2020-04-13, 23:09:53",G20200447010162,贾浩,1班,未分组,https://github.com/plushao/Frontend-01-Template/blob/master/week01/,11
+Cherry-AL,"2020-04-13, 23:16:47",G20200447010724,郑蕾,4班,9组,https://github.com/Cherry-AL/Frontend-01-Template/blob/master/week01/,0
+xingkai17,"2020-04-13, 23:19:21",G20200447010770,邢凯,5班,8组,https://github.com/xingkai17/Frontend-01-Template/blob/master/week01/,74
+progkonglei,"2020-04-13, 23:24:10",G20200447010004,赵孔磊,1期4班,1组,https://github.com/progkonglei/Frontend-01-Template/blob/master/week01/,83
+smileShirmy,"2020-04-13, 23:30:23",G20200447010420,邱诗铭,5班,5组,https://github.com/smileShirmy/Frontend-01-Template/blob/master/week01/,36
+smileShirmy,"2020-04-13, 23:30:28",G20200447010420,邱诗铭,5班,5组,https://github.com/smileShirmy/Frontend-01-Template/blob/master/week01/,36
+zephyrJS,"2020-04-13, 23:34:42",G20200447010029,郑泽帆,4班,1组,https://github.com/zephyrJS/Frontend-01-Template/blob/master/week01/,37
+LBJDJW,"2020-04-13, 23:37:16",G20200447010419,戴嘉伟,4班,5组,https://github.com/LBJDJW/Frontend-01-Template/blob/master/week01/,4
+lucianlv,"2020-04-13, 23:50:32",G20200447010038,吕晟,3班,1组,https://github.com/lucianlv/Frontend-01-Template/blob/master/week01/,25
+BenjaminHang,"2020-04-13, 23:57:27",G20200447010836,吕益行,1班,北京梯队,https://github.com/BenjaminHang/Frontend-01-Template/blob/master/week01/,45
+zer0fire,"2020-04-14, 24:00:54",学号：G20200447010238,王猛,3班,4组,https://github.com/zer0fire/Frontend-01-Template/blob/master/week01/,3
+MengZhaoFly,"2020-04-14, 24:07:04",G20200447010777,赵猛,2班,一天不学习就难受,https://github.com/MengZhaoFly/Frontend-01-Template/blob/master/week01/,34
+fejavu,"2020-04-14, 24:24:51",G20200447010207,阳光,1期2班,null,https://github.com/fejavu/Frontend-01-Template/blob/master/week01/,13
+meibaorui,"2020-04-14, 24:28:41",G20200447010083,梅葆瑞,3班,2组,https://github.com/meibaorui/Frontend-01-Template/blob/master/week01/,124
+wolfmanfxm,"2020-04-14, 24:53:37",G20200447010846,方向明,一班,无,https://github.com/wolfmanfxm/Frontend-01-Template/blob/master/week01/,248
+RfanSSS,"2020-04-14, 02:16:12",G20200447010747,沈若凡,2班,无,https://github.com/RfanSSS/Frontend-01-Template/blob/master/week01/,45
+srw4115,"2020-04-14, 03:01:51",G20200447010203,宋志超,3班,4组,https://github.com/srw4115/Frontend-01-Template/blob/master/week01/,8
+BarrryZhu,"2020-04-14, 10:05:06",G20200447010725,朱烨,5班,8组,https://github.com/BarrryZhu/Frontend-01-Template/blob/master/week01/,8
+zjwxg,"2020-04-14, 10:27:36",G20200447010904,张未,4班,11组,https://github.com/zjwxg/Frontend-01-Template/blob/master/week01/,124
+luxiqiang,"2020-04-14, 10:34:30",G20200447010888,卢希强,3班,10组,https://github.com/luxiqiang/Frontend-01-Template/blob/master/week01/,164
+DWmister,"2020-04-14, 11:24:45",G20200447010332,张树磊,2班,上海梯队,https://github.com/DWmister/Frontend-01-Template/blob/master/week01/,27
+liulinboyi,"2020-04-14, 11:42:16",G20200447010037,刘博,2班,一天不学习就难受,https://github.com/liulinboyi/Frontend-01-Template/blob/master/week01/,19
+ChenHaoNane,"2020-04-14, 12:04:00",G20200447010015,陈浩楠,5班,2组,https://github.com/ChenHaoNane/Frontend-01-Template/blob/master/week01/,45
+TowerKula,"2020-04-14, 12:41:54",G20200447010557,覃尚林,2班,无,https://github.com/TowerKula/Frontend-01-Template/blob/master/week01/,47
+chenxiaosen,"2020-04-14, 12:46:24",G20200447010138,陈晓森,3班,2组,https://github.com/chenxiaosen/Frontend-01-Template/blob/master/week01/,23
+webfanzc,"2020-04-14, 13:00:50",G20200447010298,张聪,3班,4组,https://github.com/webfanzc/Frontend-01-Template/blob/master/week01/,6
+coocoonancy,"2020-04-14, 13:29:55",G20200447010954,杨超男,4班,11组,,0
+95-yn,"2020-04-14, 13:30:01",,,,,,
+Jason-nl,"2020-04-14, 14:13:47",G20200447010817,张乐,2班,,https://github.com/Jason-nl/Frontend-01-Template/blob/master/week01/,14
+ApsarasMax,"2020-04-14, 14:28:59",G20200447010852,张亦弛,2班,,https://github.com/ApsarasMax/Frontend-01-Template/blob/master/week01/,41
+nathan-go,"2020-04-14, 14:31:22",G20200447010612,曹洋,2班,,https://github.com/nathan-go/Frontend-01-Template/blob/master/week01/,1
+northernCold,"2020-04-14, 15:16:51",G20200447010364,黄晓东,4班,5组,https://github.com/northernCold/Frontend-01-Template/blob/master/week01/,137
+ngstyle,"2020-04-14, 15:37:57",G20200447010878,nohc,3班,10组,https://github.com/ngstyle/Frontend-01-Template/blob/master/week01/,0
+XueMary,"2020-04-14, 15:45:32",G20200447010905,薛纪洪,5班,10组,https://github.com/XueMary/Frontend-01-Template/blob/master/week01/,20
+hu490170832,"2020-04-14, 15:47:05",G20200447010597,hc,2班,,https://github.com/hu490170832/Frontend-01-Template/blob/master/week01/,38
+yujhyu,"2020-04-14, 16:35:40",G20200447010027,余佳徽,2班,待定,https://github.com/yujhyu/Frontend-01-Template/blob/master/week01/,291
+flashclub,"2020-04-14, 16:55:36",G20200447010376,梁长路,1班,坚持到底组,https://github.com/flashclub/Frontend-01-Template/blob/master/week01/,5
+keelia,"2020-04-14, 16:55:45",G20200447010006,亢莉,1班,-,https://github.com/keelia/Frontend-01-Template/blob/master/week01/,1
+leocoder351,"2020-04-14, 16:57:15",G20200447010067,刘轩,2班,,https://github.com/leocoder351/Frontend-01-Template/blob/master/week01/,23
+VvVs,"2020-04-14, 17:07:01",G20200447010515,高立寒,5班,6组,https://github.com/VvVs/Frontend-01-Template/blob/master/week01/,42
+shuke0327,"2020-04-14, 17:07:02",G20200447010744,荆凯,4班,9组,https://github.com/shuke0327/Frontend-01-Template/blob/master/week01/,454
+SuperJM0715,"2020-04-14, 17:22:52",G20200447010052,宋金孟,2班,北上广不相信眼泪,https://github.com/SuperJM0715/Frontend-01-Template/blob/master/week01/,33
+chenxingliang,"2020-04-14, 17:31:23",G20200447010184,陈星亮,4班,1组,https://github.com/chenxingliang/Frontend-01-Template/blob/master/week01/,66
+c2kaka,"2020-04-14, 17:32:01",G20200447010214,欧阳帆,4班,3组,https://github.com/c2kaka/Frontend-01-Template/blob/master/week01/,29
+2233322,"2020-04-14, 18:26:55",G20200447010950,许燕鸿,5班,10组,https://github.com/2233322/Frontend-01-Template/blob/master/week01/,47
+nikukeke,"2020-04-14, 18:33:33",G20200447010573,王婧锦,3班,7组,https://github.com/nikukeke/Frontend-01-Template/blob/master/week01/,371
+TomatoDroid,"2020-04-14, 19:35:31",G20200447010241,刘臻,1班,北广深不相信眼泪,https://github.com/TomatoDroid/Frontend-01-Template/blob/master/week01/,454
+nation-blue,"2020-04-14, 19:36:18",G20200447010466,刘旭瑞,1班,绝对看视频组,https://github.com/nation-blue/Frontend-01-Template/blob/master/week01/,24
+Hadwz,"2020-04-14, 19:42:45",G20200447010237,郑荣滨,2班,扶我起来我还能学,https://github.com/Hadwz/Frontend-01-Template/blob/master/week01/,129
+xiaodaobiepao,"2020-04-14, 19:55:42",G20200447010042,陈超,2班,上海梯队,https://github.com/xiaodaobiepao/Frontend-01-Template/blob/master/week01/,6
+EngineerYZ,"2020-04-14, 19:55:45",G20200447010247,姚佐,2班,我绝对做作业组,https://github.com/EngineerYZ/Frontend-01-Template/blob/master/week01/,6
+hlgliut,"2020-04-14, 19:59:37",G20200447010356,刘唐,1班,北广深不相信眼泪,https://github.com/hlgliut/Frontend-01-Template/blob/master/week01/,4
+Grimm110,"2020-04-14, 20:04:36",G20200447010312,潘洁明,2班,前端1期2班-上海梯队,https://github.com/Grimm110/Frontend-01-Template/blob/master/week01/,251
+LP1996,"2020-04-14, 20:09:47",G20200447010654,廖鹏,4班,8组,https://github.com/LP1996/Frontend-01-Template/blob/master/week01/,5
+ichenjunhong,"2020-04-14, 20:10:10",G20200447010386,陈俊宏,1班,前端1期1班-上海梯队,https://github.com/ichenjunhong/Frontend-01-Template/blob/master/week01/,8
+qianyeyixia,"2020-04-14, 20:30:46",G20200447010169,王燚,4班,前端1期4班-11组,https://github.com/qianyeyixia/Frontend-01-Template/blob/master/week01/,56
+liaozeen,"2020-04-14, 20:39:51",G20200447010030,廖泽恩,5班,前端1期-5班-1组,https://github.com/liaozeen/Frontend-01-Template/blob/master/week01/,49
+soGooday,"2020-04-14, 20:40:43",G20200447010871,王俊峰,1班,绝对看视频组,https://github.com/soGooday/Frontend-01-Template/blob/master/week01/,71
+L-42,"2020-04-14, 20:40:57",G20200447010483,刘凯龙,3班,6组,https://github.com/L-42/Frontend-01-Template/blob/master/week01/,96
+jsback,"2020-04-14, 20:40:57",G20200447010876,焦爽,1班,绝对看视频组,https://github.com/jsback/Frontend-01-Template/blob/master/week01/,8
+notmaster,"2020-04-14, 20:42:06",G20200447010886,周仕杰,1班,坚持到底,https://github.com/notmaster/Frontend-01-Template/blob/master/week01/,103
+darkiHJS,"2020-04-14, 20:51:53",G20200447010132,胡嘉仕,2 班,前端1期2班-上海梯队,https://github.com/darkiHJS/Frontend-01-Template/blob/master/week01/,5
+lllxxl,"2020-04-14, 21:03:55",G20200447010375,夏傲雪,5班,4组,https://github.com/lllxxl/Frontend-01-Template/blob/master/week01/,48
+Msekoo,"2020-04-14, 21:07:20",G20200447010576,周文文,1班,广东梯队,https://github.com/Msekoo/Frontend-01-Template/blob/master/week01/,8
+wuxingjun,"2020-04-14, 21:16:36",G20200447010328,xingjun,3班,5組,https://github.com/wuxingjun/Frontend-01-Template/blob/master/week01/,5
+switch0303,"2020-04-14, 21:16:43",G20200447010156,吴聪,1班,江浙沪梯队,https://github.com/switch0303/Frontend-01-Template/blob/master/week01/,29
+shyi92,"2020-04-14, 21:40:25",G20200447010432,衣爽,2班,北京梯队,https://github.com/shyi92/Frontend-01-Template/blob/master/week01/,5
+zhangyuwu123,"2020-04-14, 21:54:25",G20200447010952,张玉武,2班,1组,https://github.com/zhangyuwu123/Frontend-01-Template/blob/master/week01/,16
+xkx9431,"2020-04-14, 22:00:59",G20200343030516,许凯旋,1班,你还报了算法？,https://github.com/xkx9431/Frontend-01-Template/blob/master/week01/,199
+CnPyYang,"2020-04-14, 22:08:46",G20200447010217,张金鹏,2班,北京梯队,https://github.com/CnPyYang/Frontend-01-Template/blob/master/week01/,1
+Zhouqchao,"2020-04-14, 22:13:03",G20200447010012,周启超,2班,上海梯队,https://github.com/Zhouqchao/Frontend-01-Template/blob/master/week01/,5
+swpuhu,"2020-04-14, 22:20:00",G20200447010927,胡云鹤,2班,扶我起来我还能学,https://github.com/swpuhu/Frontend-01-Template/blob/master/week01/,277
+johnsnow20087349,"2020-04-14, 22:26:31",G20200447010357,刘杰,2班,扶我起来我还能学,https://github.com/johnsnow20087349/Frontend-01-Template/blob/master/week01/,5
+lizj-inspur,"2020-04-14, 22:30:22",,,,,,
+dongmenghao,"2020-04-14, 22:36:47",G20200447010268,董梦浩,3 班,4组,https://github.com/dongmenghao/Frontend-01-Template/blob/master/week01/,239
+wen-haoming,"2020-04-14, 22:46:58",G20200447010036,温浩明,1班,广东梯队,https://github.com/wen-haoming/Frontend-01-Template/blob/master/week01/,169
+q673115816,"2020-04-14, 22:47:56",G20200447010331,林锦骏,1班,上海梯队,https://github.com/q673115816/Frontend-01-Template/blob/master/week01/,68
+ll7224,"2020-04-14, 22:48:01",G20200447010454,李嵚峰,4班,6组,https://github.com/ll7224/Frontend-01-Template/blob/master/week01/,84
+Emptylee,"2020-04-14, 22:58:23",G20200447010643,李智,3班,8组,https://github.com/Emptylee/Frontend-01-Template/blob/master/week01/,1
+lznbuild,"2020-04-14, 23:04:11",G20200447010417,卢宗南,2班,一天不学习就难受,https://github.com/lznbuild/Frontend-01-Template/blob/master/week01/,2
+gaoxuerong,"2020-04-14, 23:04:30",G20200447010220,高雪荣,5班,3组,https://github.com/gaoxuerong/Frontend-01-Template/blob/master/week01/,56
+Hyxmy,"2020-04-14, 23:06:18",G20200447010206,熊梦颖,1班,广东梯队,https://github.com/Hyxmy/Frontend-01-Template/blob/master/week01/,67
+EdieFu,"2020-04-14, 23:11:03",G20200447010922,付一飞,2班,罗汉队,https://github.com/EdieFu/Frontend-01-Template/blob/master/week01/,57
+fmDoubt,"2020-04-14, 23:11:17",G20200447010567,张冯茗,2班,我绝对做作业,https://github.com/fmDoubt/Frontend-01-Template/blob/master/week01/,39
+luchaohai,"2020-04-14, 23:14:04",G20200447010691,苦行僧,1班,江浙沪梯队,https://github.com/luchaohai/Frontend-01-Template/blob/master/week01/,1
+sadmark,"2020-04-14, 23:20:15",G20200447010656,周斌,1班,上海梯队,https://github.com/sadmark/Frontend-01-Template/blob/master/week01/,12
+Dalsen-Chung,"2020-04-14, 23:20:57",G20200447010486,钟达,1班,北广深不相信眼泪,https://github.com/Dalsen-Chung/Frontend-01-Template/blob/master/week01/,38
+ooo1l,"2020-04-14, 23:21:59",G20200447010898,陈程,3班,11组,https://github.com/ooo1l/Frontend-01-Template/blob/master/week01/,3
+Bryant-cx,"2020-04-14, 23:27:24",G20200447010692,谭传秀,2班,北上广深不相信眼泪,https://github.com/Bryant-cx/Frontend-01-Template/blob/master/week01/,59
+qizhou23,"2020-04-14, 23:32:34",G20200447010377,王启睿,2班,北上广深不相信眼泪,https://github.com/qizhou23/Frontend-01-Template/blob/master/week01/,13
+zwenli,"2020-04-14, 23:33:04",G20200447010808,张文理,3班,10组,https://github.com/zwenli/Frontend-01-Template/blob/master/week01/,290
+YouthBaby,"2020-04-14, 23:36:47",G20200447010043,张家祯,3班,1组,https://github.com/YouthBaby/Frontend-01-Template/blob/master/week01/,59
+Lilian97,"2020-04-14, 23:41:25",G20200447010190,马盼莉,5班,2组,https://github.com/Lilian97/Frontend-01-Template/blob/master/week01/,130
+shaotianyu,"2020-04-14, 23:59:01",G20200447010501,邵天宇,1班,前端1期一班-上海梯队,https://github.com/shaotianyu/Frontend-01-Template/blob/master/week01/,26
+Ieeebruce,"2020-04-15, 24:01:08",G20200447010255,雷洪涛,5班,3组,https://github.com/Ieeebruce/Frontend-01-Template/blob/master/week01/,12
+maying2020,"2020-04-15, 24:01:48",G20200447010783,马莹,3班,前端1期三班-北京梯队,https://github.com/maying2020/Frontend-01-Template/blob/master/week01/,9
+Zachy-lee,"2020-04-15, 24:13:30",G20190343010361,Zachy,1班,广东梯队,https://github.com/Zachy-lee/Frontend-01-Template/blob/master/week01/,42
+listingzhao,"2020-04-15, 24:15:03",G20200447010081,赵锌泽,1班,江浙沪梯队,https://github.com/listingzhao/Frontend-01-Template/blob/master/week01/,74
+474191468,"2020-04-15, 24:16:14",G20200447010628,周云龙,3班,8组,,0
+guchengjie,"2020-04-15, 24:19:12",,,,,,
+zengxue158,"2020-04-15, 24:27:05",G20200447010282,曾雪,2班,北京梯队,https://github.com/zengxue158/Frontend-01-Template/blob/master/week01/,137
+pandaCure,"2020-04-15, 24:32:33",G20200447010563,张忠有,3班,7组,https://github.com/pandaCure/Frontend-01-Template/blob/master/week01/,127
+Q1173419450,"2020-04-15, 24:38:43",G20200447010125,陈俊强,5班,2组,https://github.com/Q1173419450/Frontend-01-Template/blob/master/week01/,186
+fengxiaodong28,"2020-04-15, 01:00:27",G20200447010133,冯小东,3班,2组,https://github.com/fengxiaodong28/Frontend-01-Template/blob/master/week01/,25
+xuehongjie,"2020-04-15, 01:16:55",G20200447010735,薛鸿杰,5班,8组,https://github.com/xuehongjie/Frontend-01-Template/blob/master/week01/,78
+HQ-Dev,"2020-04-15, 01:41:56",G20200447010805,黄琦,5班,9组,https://github.com/HQ-Dev/Frontend-01-Template/blob/master/week01/,19
+MousseWang,"2020-04-15, 01:55:31",,,,,,
+daybreakcold,"2020-04-15, 02:32:17",,,,,,
+farzer,"2020-04-15, 02:48:05",G20200447010431,谭华恩,1班,这里好多女生呀,https://github.com/farzer/Frontend-01-Template/blob/master/week01/,13
+Yhxang,"2020-04-15, 02:59:52",G20200447010638,杨洪勋,3班,8组,https://github.com/Yhxang/Frontend-01-Template/blob/master/week01/,159
+baiyunshenghaishang,"2020-04-15, 07:30:40",G20200447010495,黄贞,5班,6组,https://github.com/baiyunshenghaishang/Frontend-01-Template/blob/master/week01/,92
+musistudio,"2020-04-15, 07:49:45",G20200447010071,李金辉,1班,这里好多女生呀,https://github.com/musistudio/Frontend-01-Template/blob/master/week01/,5
+Sillyzhe,"2020-04-15, 08:41:54",G20200447010011,吴利哲,1班,？？？,https://github.com/Sillyzhe/Frontend-01-Template/blob/master/week01/,76
+VINOlive,"2020-04-15, 08:45:28",G20200447010891,Mraz,1班,罗汉组,https://github.com/VINOlive/Frontend-01-Template/blob/master/week01/,33
+StephenAgui,"2020-04-15, 08:56:06",G20200447010439,桂靖,4班,6组,https://github.com/StephenAgui/Frontend-01-Template/blob/master/week01/,483
+jingping-ye,"2020-04-15, 09:06:11",G20200447010262,叶敬平,2班,这里好多女生呀,https://github.com/jingping-ye/Frontend-01-Template/blob/master/week01/,0
+liuchaosun,"2020-04-15, 09:13:49",G20200447010177,孙刘超,2班,江浙沪梯队,https://github.com/liuchaosun/Frontend-01-Template/blob/master/week01/,56
+cnsummer,"2020-04-15, 09:47:05",G20200447010745,史立乾,5班,8组,https://github.com/cnsummer/Frontend-01-Template/blob/master/week01/,4
+woowyl,"2020-04-15, 10:19:43",G20200447010847,王远亮,2班,上海梯队,https://github.com/woowyl/Frontend-01-Template/blob/master/week01/,340
+lidamaomao,"2020-04-15, 10:29:26",G20200447010266,宋子威,1班,罗汉组,https://github.com/lidamaomao/Frontend-01-Template/blob/master/week01/,1
+dearzd,"2020-04-15, 10:46:42",G20200447010361,张东,1班,上海梯队,https://github.com/dearzd/Frontend-01-Template/blob/master/week01/,102
+volewu,"2020-04-15, 11:04:58",G20200447010446,伍献财,1班,广东梯队,https://github.com/volewu/Frontend-01-Template/blob/master/week01/,41
+xzuopydev,"2020-04-15, 11:17:21",G20200447010657,孙向作,2班,我绝对做作业,https://github.com/xzuopydev/Frontend-01-Template/blob/master/week01/,24
+qilinyu,"2020-04-15, 11:20:02",G20200447010804,亓林玉,4班,10组,https://github.com/qilinyu/Frontend-01-Template/blob/master/week01/,5
+GordonZH,"2020-04-15, 11:25:22",G20200447010690,张豪,5班,7组,https://github.com/GordonZH/Frontend-01-Template/blob/master/week01/,28
+yylink0208,"2020-04-15, 11:32:17",G20200447010188,叶成,3班,3组,https://github.com/yylink0208/Frontend-01-Template/blob/master/week01/,68
+NickJiangDev,"2020-04-15, 11:36:55",G20200447010591,姜杉,1班,上海梯队,https://github.com/NickJiangDev/Frontend-01-Template/blob/master/week01/,18
+zhiaiing,"2020-04-15, 11:38:30",G20200447010726,嵇新康,1班,上海梯队,https://github.com/zhiaiing/Frontend-01-Template/blob/master/week01/,7
+bao2264,"2020-04-15, 11:41:03",G20200447010151,鲍军伟,1班,北京梯队,https://github.com/bao2264/Frontend-01-Template/blob/master/week01/,28
+luobosiji,"2020-04-15, 11:42:13",G20190379010009,庞军豪,4班,6组,https://github.com/luobosiji/Frontend-01-Template/blob/master/week01/,1
+IdEvEbI,"2020-04-15, 11:47:51",G20200447010166,刘凡,1班,北京梯队,https://github.com/IdEvEbI/Frontend-01-Template/blob/master/week01/,143
+myNameNt,"2020-04-15, 11:51:26",G20200447010737,聂挺,二班,一天不学习就难受,https://github.com/myNameNt/Frontend-01-Template/blob/master/week01/,15
+koromon,"2020-04-15, 11:54:08",G20200447010396,冯陈明,一班,罗汉组,https://github.com/koromon/Frontend-01-Template/blob/master/week01/,205
+moling3650,"2020-04-15, 11:54:44",G20200447010021,李粤强,1班,北广深不相信眼泪,https://github.com/moling3650/Frontend-01-Template/blob/master/week01/,74
+p455555555,"2020-04-15, 11:56:02",G20200447010571,陈俊宏,1班,坚持到底组,https://github.com/p455555555/Frontend-01-Template/blob/master/week01/,3
+JackXueX,"2020-04-15, 12:04:13",G20200447010502,薛康吉,2班,上海梯队,https://github.com/JackXueX/Frontend-01-Template/blob/master/week01/,48
+YoungCC2,"2020-04-15, 12:15:16",,,,,,
+wolfmanfxm,"2020-04-15, 12:30:09",,,,,,
+liulang2,"2020-04-15, 12:30:14",G20200447010095,刘浪,5班,前端1期-5班-1组,https://github.com/liulang2/Frontend-01-Template/blob/master/week01/,1
+osxcn,"2020-04-15, 12:32:43",G20200447010022,赵潇睿,2班,江浙沪梯队,https://github.com/osxcn/Frontend-01-Template/blob/master/week01/,18
+gaojy62,"2020-04-15, 12:32:47",G20200447010305,郜建宇,5班,4组,https://github.com/gaojy62/Frontend-01-Template/blob/master/week01/,38
+wanyoulc,"2020-04-15, 12:44:32",G20200447010257,刘祥旭,2班,罗汉队,https://github.com/wanyoulc/Frontend-01-Template/blob/master/week01/,29
+bai1611,"2020-04-15, 12:49:12",G20200447010879,白振中,4班,1组,https://github.com/bai1611/Frontend-01-Template/blob/master/week01/,1
+aoilti,"2020-04-15, 13:01:26",G20200447010291,张威,1班,北京梯队,https://github.com/aoilti/Frontend-01-Template/blob/master/week01/,3
+wtlsky,"2020-04-15, 13:08:26",G20200447010372,武天亮,二班,北上广深不相信眼泪,https://github.com/wtlsky/Frontend-01-Template/blob/master/week01/,4
+kybetter,"2020-04-15, 13:15:51",G20190282010023,赵亮,3班,2组,https://github.com/kybetter/Frontend-01-Template/blob/master/week01/,9
+wendraw,"2020-04-15, 13:18:12",G20200447010070,曾雯端,5班,1组,https://github.com/wendraw/Frontend-01-Template/blob/master/week01/,14
+QMangoJ,"2020-04-15, 13:21:21",G20200447010608,嵇登浩,3班,8组,https://github.com/QMangoJ/Frontend-01-Template/blob/master/week01/,18
+seven-it,"2020-04-15, 13:31:35",G20200447010261,陈炫彬,1班,北广深不相信眼泪,https://github.com/seven-it/Frontend-01-Template/blob/master/week01/,13
+wang-pan0724,"2020-04-15, 13:47:49",G20200447010017,王盼,2班,这里好多女生呀,https://github.com/wang-pan0724/Frontend-01-Template/blob/master/week01/,10
+artyhacker,"2020-04-15, 13:56:42",G20200447010320,董辉,5班,4组,https://github.com/artyhacker/Frontend-01-Template/blob/master/week01/,336
+webwyb,"2020-04-15, 14:04:46",G20200447010087,吴延彬,2班,北京梯队,https://github.com/webwyb/Frontend-01-Template/blob/master/week01/,52
+9237074,"2020-04-15, 14:08:15",G20200447010907,刘兵,2班,一天不学习就难受,https://github.com/9237074/Frontend-01-Template/blob/master/week01/,60
+ybscypress,"2020-04-15, 14:09:02",G20200447010369,闫柏燊,4班,5组,https://github.com/ybscypress/Frontend-01-Template/blob/master/week01/,14
+weizixiao,"2020-04-15, 14:25:42",G20200447010131,黄伟华,1班,罗汉组,https://github.com/weizixiao/Frontend-01-Template/blob/master/week01/,4
+jannahuang,"2020-04-15, 14:44:01",G20200447010068,黄晶娜,3班,1组,https://github.com/jannahuang/Frontend-01-Template/blob/master/week01/,192
+RamboGit,"2020-04-15, 14:49:57",G20200447010786,张阔,1班,罗汉组,https://github.com/RamboGit/Frontend-01-Template/blob/master/week01/,106
+yuanxp123,"2020-04-15, 14:53:21",G20200447010475,袁鑫鹏,5班,5组,https://github.com/yuanxp123/Frontend-01-Template/blob/master/week01/,25
+ghostiin,"2020-04-15, 14:53:49",G20200447010059,刘思慧,4班,1组,,0
+smalldice,"2020-04-15, 15:00:30",G20200447010457,乌拉,2班,上海梯队,,0
+qtnizuishuai,"2020-04-15, 15:03:33",G20200447010592,覃天,2班,罗汉队,https://github.com/qtnizuishuai/Frontend-01-Template/blob/master/week01/,105
+ck18781145809,"2020-04-15, 15:07:33",G20200447010157,陈阔,2班,这里好多女生呀,https://github.com/ck18781145809/Frontend-01-Template/blob/master/week01/,13
+jiangray,"2020-04-15, 15:12:57",G20200447010545,爆米花,5班,6组,https://github.com/jiangray/Frontend-01-Template/blob/master/week01/,13
+wxywizard,"2020-04-15, 15:27:04",G20200388010142,王旭阳,2班,前端1期2班-扶我起来我还能学,https://github.com/wxywizard/Frontend-01-Template/blob/master/week01/,1
+dingww,"2020-04-15, 15:28:45",G20200447010602,della,2班,北广深不相信眼泪,https://github.com/dingww/Frontend-01-Template/blob/master/week01/,231
+yuyingemma,"2020-04-15, 15:29:14",G20200447010722,彭毓莹,2班,前端1期2班-广东梯队,https://github.com/yuyingemma/Frontend-01-Template/blob/master/week01/,7
+kaeryehaowan,"2020-04-15, 15:38:50",G20200447010740,喻鹏,5班,8组,https://github.com/kaeryehaowan/Frontend-01-Template/blob/master/week01/,194
+mikowu,"2020-04-15, 15:43:01",G20200447010776,吴敏,1班,前端1期1班-广东梯队,https://github.com/mikowu/Frontend-01-Template/blob/master/week01/,28
+18247033708,"2020-04-15, 15:43:26",G20200447010900,赵春霞,5班,捉住一只前端喵（1期5班10组）,,0
+imhxc,"2020-04-15, 15:48:07",G20200447010118,侯先诚,3班,2组,https://github.com/imhxc/Frontend-01-Template/blob/master/week01/,45
+flonny,"2020-04-15, 15:48:08",G20200447010578,范跃东,3班,7组,https://github.com/flonny/Frontend-01-Template/blob/master/week01/,60
+fedQu,"2020-04-15, 15:50:52",G2020044701085,屈万辉,2班,北京梯队,https://github.com/fedQu/Frontend-01-Template/blob/master/week01/,39
+sassywp,"2020-04-15, 15:52:40",G20200447010424,卫平,4班,6组,https://github.com/sassywp/Frontend-01-Template/blob/master/week01/,10
+wjlscript,"2020-04-15, 15:53:39",G20190343010182,王旌列,2班,听说你还报了算法,https://github.com/wjlscript/Frontend-01-Template/blob/master/week01/,15
+keuby,"2020-04-15, 15:53:43",G20200447010526,陈俊帆,1班,上海梯队,https://github.com/keuby/Frontend-01-Template/blob/master/week01/,315
+hongweiQ,"2020-04-15, 15:54:12",G20200447010147,钱宏伟,2班,,https://github.com/hongweiQ/Frontend-01-Template/blob/master/week01/,126
+songjuncai1122,"2020-04-15, 15:55:51",G20200389010162,宋俊才,2班,,https://github.com/songjuncai1122/Frontend-01-Template/blob/master/week01/,6
+17dian,"2020-04-15, 16:04:45",G20200447010807,李东阳,2班,北京梯队,,0
+290388252,"2020-04-15, 16:06:51",G20200447010640,严超,5班,无,https://github.com/290388252/Frontend-01-Template/blob/master/week01/,44
+llf17uw,"2020-04-15, 16:14:49",G20200447010715,李力非,5班,8组,https://github.com/llf17uw/Frontend-01-Template/blob/master/week01/,33
+MeU-jiang,"2020-04-15, 16:26:31",G20200447010814,蒋宗林,4班,10组,https://github.com/MeU-jiang/Frontend-01-Template/blob/master/week01/,210
+nbj123,"2020-04-15, 16:27:21",,,,,,
+zhen11111111,"2020-04-15, 16:30:12",G20200447010284,武红真,4,4,https://github.com/zhen11111111/Frontend-01-Template/blob/master/week01/,2
+yx101,"2020-04-15, 16:30:49",G20190343020106,瞿益侠,1班,你还报了算法？,https://github.com/yx101/Frontend-01-Template/blob/master/week01/,1
+ChenWG95,"2020-04-15, 16:32:41",G20200447010202,陈伟光,2班,这里好多女生呀,https://github.com/ChenWG95/Frontend-01-Template/blob/master/week01/,58
+jumodada,"2020-04-15, 16:39:54",G20200447010127,吴坤耘,2班,扶我起来我还能学,https://github.com/jumodada/Frontend-01-Template/blob/master/week01/,33
+Akenokoru,"2020-04-15, 16:40:44",G20200447010469,潘禹行,4班,6组,https://github.com/Akenokoru/Frontend-01-Template/blob/master/week01/,1
+wujinggh,"2020-04-15, 16:44:35",G20200447010478,吴靖,3班,6组,https://github.com/wujinggh/Frontend-01-Template/blob/master/week01/,4
+tomato-tomato,"2020-04-15, 16:44:51",G20200447010315,严凌峰,5班,4组,https://github.com/tomato-tomato/Frontend-01-Template/blob/master/week01/,6
+wanni-yang,"2020-04-15, 16:45:59",G20200447010959,杨小咩,4班,11组,https://github.com/wanni-yang/Frontend-01-Template/blob/master/week01/,16
+timmyBeef,"2020-04-15, 16:50:40",G20200343030409,林柏瑋,4班,1組,https://github.com/timmyBeef/Frontend-01-Template/blob/master/week01/,8
+Gentlemeng,"2020-04-15, 16:50:46",G20200447010778,王雪恒,3班,9组,https://github.com/Gentlemeng/Frontend-01-Template/blob/master/week01/,50
+dongwuji,"2020-04-15, 16:51:31",G20190343010163,董怀威,3班,9组,https://github.com/dongwuji/Frontend-01-Template/blob/master/week01/,19
+FlyDamao,"2020-04-15, 16:53:38",G20200447010729,张晓飞,4班,9组,https://github.com/FlyDamao/Frontend-01-Template/blob/master/week01/,17
+feng138168,"2020-04-15, 16:58:44",G20200447010867,戴宙峰,2班,广东梯队,https://github.com/feng138168/Frontend-01-Template/blob/master/week01/,9
+KoenLee,"2020-04-15, 17:00:42",G20200447010016,李昊志杰,1班,北京梯队,https://github.com/KoenLee/Frontend-01-Template/blob/master/week01/,16
+pym325,"2020-04-15, 17:04:02",G20200447010890,潘奕铭,5班,9组,https://github.com/pym325/Frontend-01-Template/blob/master/week01/,57
+LiSY0418,"2020-04-15, 17:04:48",G20200447010358,李煜彬,3班,5组,https://github.com/LiSY0418/Frontend-01-Template/blob/master/week01/,4
+konkl-j,"2020-04-15, 17:30:19",G20200447010919,梁景源,4班,11组,https://github.com/konkl-j/Frontend-01-Template/blob/master/week01/,48
+moyuhaokan,"2020-04-15, 17:34:45",G20200447010474,江吉仪,4班,6组,https://github.com/moyuhaokan/Frontend-01-Template/blob/master/week01/,55
+leojfliao,"2020-04-15, 17:39:36",G20200447010916,廖巨峰,1班,坚持到底组,https://github.com/leojfliao/Frontend-01-Template/blob/master/week01/,26
+li-caspar,"2020-04-15, 17:44:31",G20200447010896,李永锋,1班,广东梯队,https://github.com/li-caspar/Frontend-01-Template/blob/master/week01/,20
+hansel-zhou,"2020-04-15, 17:49:06",G20200447010274,周慈航,4班,4组,https://github.com/hansel-zhou/Frontend-01-Template/blob/master/week01/,152
+losephsky,"2020-04-15, 17:50:29",G20190379010084,饶丰宁,1期4班,6组,https://github.com/losephsky/Frontend-01-Template/blob/master/week01/,5
+fayePsyche,"2020-04-15, 17:55:29",G20200447010319,王飞,4班,4组,https://github.com/fayePsyche/Frontend-01-Template/blob/master/week01/,15
+iamhmx,"2020-04-15, 17:55:33",G20200447010178,黄明星,3班,3组,https://github.com/iamhmx/Frontend-01-Template/blob/master/week01/,17
+sorozy,"2020-04-15, 17:57:23",G20190343010482,李国栋,2班,听说你还报了算法？,https://github.com/sorozy/Frontend-01-Template/blob/master/week01/,21
+congweibai,"2020-04-15, 17:59:50",G20190343010010,白琮玮,5 班,6组,https://github.com/congweibai/Frontend-01-Template/blob/master/week01/,4
+Jianyang1000,"2020-04-15, 18:10:01",G20200447010956,刘健阳,1班,罗汉组,https://github.com/Jianyang1000/Frontend-01-Template/blob/master/week01/,3
+WangChiech,"2020-04-15, 18:10:16",G20200447010296,王杰,1班,北广深不相信眼泪,https://github.com/WangChiech/Frontend-01-Template/blob/master/week01/,0
+lyn-ho,"2020-04-15, 18:10:52",G20200447010839,何广贤,4班,10组,https://github.com/lyn-ho/Frontend-01-Template/blob/master/week01/,152
+luhc228,"2020-04-15, 18:11:34",G20200447010246,卢恒昌,1班,广东车队,https://github.com/luhc228/Frontend-01-Template/blob/master/week01/,108
+jacobchen713,"2020-04-15, 18:14:06",G20200447010799,陈加宝,4班,10组,https://github.com/jacobchen713/Frontend-01-Template/blob/master/week01/,25
+zjlovenxx,"2020-04-15, 18:16:48",G20200447010768,张兢,3班,9组,https://github.com/zjlovenxx/Frontend-01-Template/blob/master/week01/,2
+KobeCao,"2020-04-15, 18:19:04",G20200447010245,曹兵,五班,3组,https://github.com/KobeCao/Frontend-01-Template/blob/master/week01/,1
+WangXiaoyugg,"2020-04-15, 18:19:43",G20200447010226,王晓雨,1班,绝对看视频,https://github.com/WangXiaoyugg/Frontend-01-Template/blob/master/week01/,155
+z1811021,"2020-04-15, 18:32:54",G20200447010774,龚玺,4班,10组,https://github.com/z1811021/Frontend-01-Template/blob/master/week01/,24
+qxc1,"2020-04-15, 18:37:14",G20200447010921,秦小畅,1班,这里好多女生呀,,0
+chenweitech,"2020-04-15, 18:41:25",,,,,,
+wen-haoming,"2020-04-15, 19:01:54",G20200447010036,温浩明,1班,广东梯队,https://github.com/wen-haoming/Frontend-01-Template/blob/master/week01/,169
+RuilongHe,"2020-04-15, 19:07:28",G20200343040251,何瑞龙,1班,你还报了算法？,https://github.com/RuilongHe/Frontend-01-Template/blob/master/week01/,70
+JackLeeMing,"2020-04-15, 19:16:04",G20200343040214,李嘉魁,4班,9组,https://github.com/JackLeeMing/Frontend-01-Template/blob/master/week01/,10
+dvxiaofan,"2020-04-15, 19:22:07",G20200447010140,张艳坤,5班,4组,https://github.com/dvxiaofan/Frontend-01-Template/blob/master/week01/,11
+wxx2258,"2020-04-15, 19:24:02",G20200447010050,吴晓鑫,5班,1组,https://github.com/wxx2258/Frontend-01-Template/blob/master/week01/,28
+goccult,"2020-04-15, 19:26:30",G20200447010195,林毅春,5班,3组,https://github.com/goccult/Frontend-01-Template/blob/master/week01/,74
+houinchengdu,"2020-04-15, 19:33:47",G20200447010461,侯光辉,1班,罗汉组,https://github.com/houinchengdu/Frontend-01-Template/blob/master/week01/,36
+zhangzhang86,"2020-04-15, 19:48:55",G20200447010701,张璋,1班,广东梯队,https://github.com/zhangzhang86/Frontend-01-Template/blob/master/week01/,85
+mosiya,"2020-04-15, 19:48:57",G20200447010161,莫斯雅,1班,北广深不相信眼泪,https://github.com/mosiya/Frontend-01-Template/blob/master/week01/,111
+chenliangyucd,"2020-04-15, 19:50:16",G20190343020186,陈亮宇,1班,你还报了算法？,https://github.com/chenliangyucd/Frontend-01-Template/blob/master/week01/,73
+atomcated,"2020-04-15, 19:52:50",G20200447010152,姚鹏,2班,北上广深不相信眼泪,https://github.com/atomcated/Frontend-01-Template/blob/master/week01/,5
+netspecial,"2020-04-15, 19:54:28",G20200447010003,孙茂华,3班,1组,https://github.com/netspecial/Frontend-01-Template/blob/master/week01/,59
+jinglen,"2020-04-15, 19:54:35",G20200447010934,蒋金池,5班,10组,https://github.com/jinglen/Frontend-01-Template/blob/master/week01/,85
+chendx97,"2020-04-15, 19:57:55",G20200447010459,陈东晓,4班,6组,https://github.com/chendx97/Frontend-01-Template/blob/master/week01/,43
+plin005,"2020-04-15, 19:59:00",G20190379010039,林媛媛,4班,5组,https://github.com/plin005/Frontend-01-Template/blob/master/week01/,49
+DomiPapa,"2020-04-15, 20:02:51",G20200447010489,张博,4班,6组,https://github.com/DomiPapa/Frontend-01-Template/blob/master/week01/,24
+hqck,"2020-04-15, 20:02:58",G20200447010757,李钊,2班,我绝对做作业,https://github.com/hqck/Frontend-01-Template/blob/master/week01/,5
+bmvpdxl,"2020-04-15, 20:03:21",G20200447010798,董晓龙,3班,10组,https://github.com/bmvpdxl/Frontend-01-Template/blob/master/week01/,3
+bakenray,"2020-04-15, 20:11:17",G20200447010008,雷培勤,3班,1组,https://github.com/bakenray/Frontend-01-Template/blob/master/week01/,0
+Yuriuh,"2020-04-15, 20:15:59",G20200447010616,曹小康,1班,上海梯队,https://github.com/Yuriuh/Frontend-01-Template/blob/master/week01/,2
+wenjiawenjia,"2020-04-15, 20:18:48",G20200447010254,Liu Wenjia,4班,10组,https://github.com/wenjiawenjia/Frontend-01-Template/blob/master/week01/,22
+fengfeng123456,"2020-04-15, 20:20:51",G20200447010383,王玉凤,3班,5组,https://github.com/fengfeng123456/Frontend-01-Template/blob/master/week01/,33
+zzzls95,"2020-04-15, 20:20:53",G20200447010456,赵庆伟,1班,前端1期1班-北京梯队,https://github.com/zzzls95/Frontend-01-Template/blob/master/week01/,5
+jxy401550597,"2020-04-15, 20:21:40",G20200447010660,何康,5班,7组,https://github.com/jxy401550597/Frontend-01-Template/blob/master/week01/,4
+aijs,"2020-04-15, 20:21:50",G20200447010506,艾劲松,3班,4组,https://github.com/aijs/Frontend-01-Template/blob/master/week01/,5
+zhangxiaoshang,"2020-04-15, 20:27:21",G20200447010334,张广上,4,4,https://github.com/zhangxiaoshang/Frontend-01-Template/blob/master/week01/,27
+ChuanhongChen,"2020-04-15, 20:28:06",G20200447010730,陈传宏,5班,3组,https://github.com/ChuanhongChen/Frontend-01-Template/blob/master/week01/,29
+Crazymuyang,"2020-04-15, 20:33:08",G20200447010198,彭石磊,3班,3组,https://github.com/Crazymuyang/Frontend-01-Template/blob/master/week01/,5
+neyio-cyber,"2020-04-15, 20:34:04",G20200447010273,Neyio,3班,4组,https://github.com/neyio-cyber/Frontend-01-Template/blob/master/week01/,31
+whongj,"2020-04-15, 20:35:15",G20200447010476,王宏杰,1班,罗汉组,https://github.com/whongj/Frontend-01-Template/blob/master/week01/,5
+mxymaos,"2020-04-15, 20:35:18",G20200447010352,毛禹,2班,北京梯队,https://github.com/mxymaos/Frontend-01-Template/blob/master/week01/,45
+xiaodong-github,"2020-04-15, 20:38:51",G20200447010405,石小冬,3班,1组,https://github.com/xiaodong-github/Frontend-01-Template/blob/master/week01/,2
+18247033708,"2020-04-15, 20:39:06",G20200447010900,赵春霞,5班,捉住一只前端喵（10组）,https://github.com/18247033708/Frontend-01-Template/blob/master/week01/,131
+MeSKiL,"2020-04-15, 20:39:16",G20200447010167,陈烨,2班,上海梯队,https://github.com/MeSKiL/Frontend-01-Template/blob/master/week01/,8
+chrolly875,"2020-04-15, 20:40:49",G20200447010923,张巧丽,3班,11组,https://github.com/chrolly875/Frontend-01-Template/blob/master/week01/,25
+chimyking,"2020-04-15, 20:40:53",G20200447010035,王成敏,5班,1组,https://github.com/chimyking/Frontend-01-Template/blob/master/week01/,34
+danzw1995,"2020-04-15, 20:42:41",G20200447010390,王志丹,5班,5组,https://github.com/danzw1995/Frontend-01-Template/blob/master/week01/,8
+webXP999,"2020-04-15, 20:43:22",G20200447010464,龙选平,4班,6组,https://github.com/webXP999/Frontend-01-Template/blob/master/week01/,53
+samhou1988,"2020-04-15, 20:43:48",G20200343050177,侯佳林,2班,北广深不相信眼泪,https://github.com/samhou1988/Frontend-01-Template/blob/master/week01/,11
+xiang510,"2020-04-15, 20:44:42",G20200447010842,向超,2班,北上广深不相信眼泪,https://github.com/xiang510/Frontend-01-Template/blob/master/week01/,3
+lxw-peter,"2020-04-15, 20:51:01",G20200447010197,李学文,2班,罗汉队,https://github.com/lxw-peter/Frontend-01-Template/blob/master/week01/,5
+HappyDoublekang,"2020-04-15, 20:51:14",G20200447010525,康康,5班,6组,https://github.com/HappyDoublekang/Frontend-01-Template/blob/master/week01/,136
+B1gF4ceC4t,"2020-04-15, 20:51:43",G20200447010948,刘菲,3班,11组,https://github.com/B1gF4ceC4t/Frontend-01-Template/blob/master/week01/,29
+weblw,"2020-04-15, 20:54:44",G20200447010881,李伟,1班,保证交作业组,https://github.com/weblw/Frontend-01-Template/blob/master/week01/,59
+Daguichu,"2020-04-15, 20:55:25",G20200447010759,褚琛,4班,9组,https://github.com/Daguichu/Frontend-01-Template/blob/master/week01/,32
+liuyuan512,"2020-04-15, 20:55:34",G20200447010313,刘渊,3班,5组,https://github.com/liuyuan512/Frontend-01-Template/blob/master/week01/,4
+jzenzhang,"2020-04-15, 20:55:58",G20200447010815,张晋哲,5班,9组,https://github.com/jzenzhang/Frontend-01-Template/blob/master/week01/,9
+TheBeard30,"2020-04-15, 20:59:25",G20200447010613,李豪珣,3班,8组,https://github.com/TheBeard30/Frontend-01-Template/blob/master/week01/,3
+gloye,"2020-04-15, 21:00:15",G20200447010574,叶开,04班,08组,https://github.com/gloye/Frontend-01-Template/blob/master/week01/,29
+returnMaize,"2020-04-15, 21:04:33",G20200447010295,黄俊贤,5班,3组,https://github.com/returnMaize/Frontend-01-Template/blob/master/week01/,56
+Msekoo,"2020-04-15, 21:05:28",G20200447010576,周文文,1班,广东梯队,https://github.com/Msekoo/Frontend-01-Template/blob/master/week01/,8
+AsenLins,"2020-04-15, 21:05:37",G20200447010494,林根森,01班,06组,https://github.com/AsenLins/Frontend-01-Template/blob/master/week01/,29
+Edward1C,"2020-04-15, 21:07:06",G20200447010482,崔子浩,2班,广东梯队,https://github.com/Edward1C/Frontend-01-Template/blob/master/week01/,25
+sevensun1213,"2020-04-15, 21:07:35",G20200447010427,孙茜雯,2班,江沪浙梯队,https://github.com/sevensun1213/Frontend-01-Template/blob/master/week01/,11
+Yokotachen,"2020-04-15, 21:09:32",G20200447010399,管辰,4班,5组,https://github.com/Yokotachen/Frontend-01-Template/blob/master/week01/,29
+shiji-lab,"2020-04-15, 21:09:37",G20200447010018,张泽,3班,11组,https://github.com/shiji-lab/Frontend-01-Template/blob/master/week01/,5
+yaoyao1987,"2020-04-15, 21:10:02",G20200447010231,姚玲燕,1班,江浙沪梯队,https://github.com/yaoyao1987/Frontend-01-Template/blob/master/week01/,25
+gnosis23,"2020-04-15, 21:10:37",G20200447010540,王柏浩,5班,6组,https://github.com/gnosis23/Frontend-01-Template/blob/master/week01/,10
+luohuidong,"2020-04-15, 21:11:38",G20200447010641,罗惠东,1班,北广深不相信眼泪,https://github.com/luohuidong/Frontend-01-Template/blob/master/week01/,29
+Sillyzhe,"2020-04-15, 21:13:46",G20200447010011,吴利哲,1班,北京梯队,https://github.com/Sillyzhe/Frontend-01-Template/blob/master/week01/,76
+MonkeyDwwl,"2020-04-15, 21:13:50",G20200447010562,王文丽,2班,北京梯队,https://github.com/MonkeyDwwl/Frontend-01-Template/blob/master/week01/,20
+uniquenaer,"2020-04-15, 21:15:24",G20190343010181,辣辣,1班,你还报了算法？,https://github.com/uniquenaer/Frontend-01-Template/blob/master/week01/,51
+layfonWA,"2020-04-15, 21:16:09",G20200447010368,边思林,3班,11组,https://github.com/layfonWA/Frontend-01-Template/blob/master/week01/,6
+yangmaoxin,"2020-04-15, 21:16:20",G20200447010031,杨茂新,1班,保证交作业组,https://github.com/yangmaoxin/Frontend-01-Template/blob/master/week01/,8
+lynhao,"2020-04-15, 21:16:33",G20200447010045,林浩,5班,1组,https://github.com/lynhao/Frontend-01-Template/blob/master/week01/,295
+Insistem,"2020-04-15, 21:17:22",,,,,,
+divme,"2020-04-15, 21:17:58",G20200447010598,宗麒麟,3班,7组,https://github.com/divme/Frontend-01-Template/blob/master/week01/,22
+819947516,"2020-04-15, 21:18:09",G20200447010508,李佶,3班,7组,https://github.com/819947516/Frontend-01-Template/blob/master/week01/,63
+lueluew,"2020-04-15, 21:18:54",G20200447010221,王莉莉,1班,这里好多女生呀,https://github.com/lueluew/Frontend-01-Template/blob/master/week01/,53
+Little-cute,"2020-04-15, 21:21:13",G20200447010818,可少芳,3班,10组,https://github.com/Little-cute/Frontend-01-Template/blob/master/week01/,104
+Lilian-lee,"2020-04-15, 21:22:12",G20200447010013,Lilian,3班,1组,https://github.com/Lilian-lee/Frontend-01-Template/blob/master/week01/,26
+Rovango,"2020-04-15, 21:22:33",G20200343040337,若凡,2班,北上广深不相信眼泪,https://github.com/Rovango/Frontend-01-Template/blob/master/week01/,39
+sylviawuuu,"2020-04-15, 21:23:49",G20200447010212,吴迪,2班,这里好多女生呀,https://github.com/sylviawuuu/Frontend-01-Template/blob/master/week01/,6
+tanggd,"2020-04-15, 21:26:36",G20200447010256,唐老爷,1班,保证交作业组,https://github.com/tanggd/Frontend-01-Template/blob/master/week01/,26
+zcchongpangzi,"2020-04-15, 21:26:57",G20200447010696,卓程程,1班,江浙沪梯队,https://github.com/zcchongpangzi/Frontend-01-Template/blob/master/week01/,9
+15915712571,"2020-04-15, 21:29:09",G20200447010705,何业文,5班,8组,https://github.com/15915712571/Frontend-01-Template/blob/master/week01/,4
+mt51,"2020-04-15, 21:29:29",G20200447010521,刘子洋,1班,江浙沪梯队,https://github.com/mt51/Frontend-01-Template/blob/master/week01/,3
+changxiaying,"2020-04-15, 21:30:02",G20200447010421,常夏英,1班,这里好多女生呀,https://github.com/changxiaying/Frontend-01-Template/blob/master/week01/,56
+marunzhou,"2020-04-15, 21:30:32",G20200447010044,马润洲,4班,1组,https://github.com/marunzhou/Frontend-01-Template/blob/master/week01/,46
+978543210,"2020-04-15, 21:30:54",G20200447010458,978!6,3班,5组,,0
+white500,"2020-04-15, 21:32:31",G20200447010929,叶金梁,4班,11组,https://github.com/white500/Frontend-01-Template/blob/master/week01/,94
+chenyu51,"2020-04-15, 21:33:19",G20200447010930,陈禹,5班,10组,,0
+baojie223,"2020-04-15, 21:34:10",G20200343040343,包杰,3班,9组,https://github.com/baojie223/Frontend-01-Template/blob/master/week01/,7
+cuiwuzhi,"2020-04-15, 21:34:20",G20200447010325,崔武智,5班,4组,https://github.com/cuiwuzhi/Frontend-01-Template/blob/master/week01/,84
+six-or-not,"2020-04-15, 21:35:00",G20200447010479,李梦然,4班,6组,https://github.com/six-or-not/Frontend-01-Template/blob/master/week01/,13
+Xun-L,"2020-04-15, 21:37:31",G20200447010058,李璕,3班,1组,https://github.com/Xun-L/Frontend-01-Template/blob/master/week01/,4
+JanetShan,"2020-04-15, 21:38:21",G20190282010041,单靖,1班,你还报了算法？,https://github.com/JanetShan/Frontend-01-Template/blob/master/week01/,16
+zhanqifeng0509,"2020-04-15, 21:38:47",G20200447010772,詹圻锋,2班,北京,https://github.com/zhanqifeng0509/Frontend-01-Template/blob/master/week01/,6
+Wh1t3zZ55k,"2020-04-15, 21:41:34",G20200447010594,刘国宏,4班,8组,https://github.com/Wh1t3zZ55k/Frontend-01-Template/blob/master/week01/,0
+jiayueshe,"2020-04-15, 21:42:31",G20200447010391,蒋岳生,1班,上海梯队,https://github.com/jiayueshe/Frontend-01-Template/blob/master/week01/,1
+hkdg,"2020-04-15, 21:42:57",G20200447010627,陈俊贤,2班,广东梯队,https://github.com/hkdg/Frontend-01-Template/blob/master/week01/,19
+banqii,"2020-04-15, 21:44:26",G20200447010225,班启,5班,2组,https://github.com/banqii/Frontend-01-Template/blob/master/week01/,2
+unsaid,"2020-04-15, 21:45:04",G20200447010611,张柯,1班,北京梯队,https://github.com/unsaid/Frontend-01-Template/blob/master/week01/,52
+zhuanyongxigua,"2020-04-15, 21:46:33",G20200447010882,于鑫,2班,北上广深不相信眼泪,https://github.com/zhuanyongxigua/Frontend-01-Template/blob/master/week01/,9
+owldamon,"2020-04-15, 21:46:47",G20200447010781,王述壕,1班,这里好多女生呀,https://github.com/owldamon/Frontend-01-Template/blob/master/week01/,114
+ZihaoRe,"2020-04-15, 21:46:52",G20200447010797,江梓豪,2班,广东梯队,https://github.com/ZihaoRe/Frontend-01-Template/blob/master/week01/,12
+linfahang,"2020-04-15, 21:47:41",G20200447010196,Cheney,1班,北京梯队,https://github.com/linfahang/Frontend-01-Template/blob/master/week01/,4
+AustinXT,"2020-04-15, 21:47:47",G20200447010235,谢廷,5班,3组,https://github.com/AustinXT/Frontend-01-Template/blob/master/week01/,50
+xuyunbo,"2020-04-15, 21:48:06",G20190379010090,徐蕴博,5,1,https://github.com/xuyunbo/Frontend-01-Template/blob/master/week01/,350
+monstereat,"2020-04-15, 21:48:39",G20200447010181,陈达,1班,广东梯队,https://github.com/monstereat/Frontend-01-Template/blob/master/week01/,104
+cadiron,"2020-04-15, 21:49:48",G20200447010243,雅倩,3班,4组,https://github.com/cadiron/Frontend-01-Template/blob/master/week01/,237
+seven-it,"2020-04-15, 21:51:03",G20200447010261,陈炫彬,1班,北广深不相信眼泪,https://github.com/seven-it/Frontend-01-Template/blob/master/week01/,13
+kuma0605,"2020-04-15, 21:51:19",G20200447010448,丁超,3班,6组,https://github.com/kuma0605/Frontend-01-Template/blob/master/week01/,1
+dwqdaiwenqi,"2020-04-15, 21:52:52",G20200447010866,戴文奇,1班,上海梯队,https://github.com/dwqdaiwenqi/Frontend-01-Template/blob/master/week01/,3
+a426855a5a5,"2020-04-15, 21:53:01",G20200447010159,胡辉,4班,2组,https://github.com/a426855a5a5/Frontend-01-Template/blob/master/week01/,11
+Comet32,"2020-04-15, 21:54:27",G20200447010020,赵恩啸,5,1,https://github.com/Comet32/Frontend-01-Template/blob/master/week01/,926
+selfXin,"2020-04-15, 21:55:38",G20200447010530,辛春阳,5班,6组,https://github.com/selfXin/Frontend-01-Template/blob/master/week01/,66
+ChrisWen960216,"2020-04-15, 21:56:46",G20200447010327,文韬,2班,上海梯队,https://github.com/ChrisWen960216/Frontend-01-Template/blob/master/week01/,3
+kuailoy,"2020-04-15, 21:56:49",G20200447010791,韩鼎,1班,坚持到底组,https://github.com/kuailoy/Frontend-01-Template/blob/master/week01/,114
+mbaxszy7,"2020-04-15, 21:57:03",G20200447010218,严哲宇,3,3,https://github.com/mbaxszy7/Frontend-01-Template/blob/master/week01/,77
+lhj767382286,"2020-04-15, 21:58:38",G20200447010537,梁海杰,2班,广东梯队,https://github.com/lhj767382286/Frontend-01-Template/blob/master/week01/,259
+csscoceanjeffery,"2020-04-15, 21:59:10",G20200447010344,韩鹏,4班,5组,https://github.com/csscoceanjeffery/Frontend-01-Template/blob/master/week01/,18
+QbjGKNick,"2020-04-15, 21:59:58",G20200447010359,江前彪,4班,5组,https://github.com/QbjGKNick/Frontend-01-Template/blob/master/week01/,113
+TimZw,"2020-04-15, 22:01:36",G20190282010038,张炜,3班,8组,https://github.com/TimZw/Frontend-01-Template/blob/master/week01/,105
+taiwunaiai,"2020-04-15, 22:01:39",G20200447010931,李广,1班,广东梯队,https://github.com/taiwunaiai/Frontend-01-Template/blob/master/week01/,41
+hongleilanruo,"2020-04-15, 22:01:54",G20190343010759,赵宏磊,1班,罗汉组,https://github.com/hongleilanruo/Frontend-01-Template/blob/master/week01/,6
+lt950303,"2020-04-15, 22:04:05",G20200447010559,雷霆,4班,7组,https://github.com/lt950303/Frontend-01-Template/blob/master/week01/,109
+mythshuazi,"2020-04-15, 22:08:46",G20200447010363,吕帅,3班,5组,https://github.com/mythshuazi/Frontend-01-Template/blob/master/week01/,6
+lwscn,"2020-04-15, 22:09:03",G20200447010362,吕伟松,2班,北京梯队,https://github.com/lwscn/Frontend-01-Template/blob/master/week01/,0
+liufuxiang101,"2020-04-15, 22:09:08",G20200447010694,刘福祥,4班,9组,https://github.com/liufuxiang101/Frontend-01-Template/blob/master/week01/,0
+zelixag,"2020-04-15, 22:09:21",G20200447010751,郑林雄,1班,江浙沪梯队,https://github.com/zelixag/Frontend-01-Template/blob/master/week01/,0
+Yxiaogui,"2020-04-15, 22:11:12",G20190343010062,姚海信,2班,听说你还报了算法？,https://github.com/Yxiaogui/Frontend-01-Template/blob/master/week01/,0
+shenwl,"2020-04-15, 22:12:46",G20200447010269,申伟伦,4班,4组,,0
+ZhiyuanYang6,"2020-04-15, 22:14:09",G20200447010467,阳知渊,2班,江浙沪梯队,https://github.com/ZhiyuanYang6/Frontend-01-Template/blob/master/week01/,0
+isPlaying,"2020-04-15, 22:14:23",G20200447010561,王 一,1班,上海梯队,https://github.com/isPlaying/Frontend-01-Template/blob/master/week01/,0
+ronliruonan,"2020-04-15, 22:14:33",G20200447010703,李若男,3班,9组,https://github.com/ronliruonan/Frontend-01-Template/blob/master/week01/,0
+qiqiwwq7,"2020-04-15, 22:14:58",,,,,,
+xycxmz,"2020-04-15, 22:15:29",G20200447010925,许渊聪,5班,捉住一只前端喵,https://github.com/xycxmz/Frontend-01-Template/blob/master/week01/,18
+1yx,"2020-04-15, 22:17:19",G20200343030561,刘宇轩,1班,你还报了算法？,https://github.com/1yx/Frontend-01-Template/blob/master/week01/,1
+EmilyLike,"2020-04-15, 22:17:56",G20200447010480,刘雅鑫,5班,捉到一只前端喵,https://github.com/EmilyLike/Frontend-01-Template/blob/master/week01/,17
+duyue6002,"2020-04-15, 22:18:06",G20190343010571,杜悦,1班,你还报了算法？,https://github.com/duyue6002/Frontend-01-Template/blob/master/week01/,4
+ulyssesyang,"2020-04-15, 22:18:37",G20200447010452,杨愈,2班,罗汉队,https://github.com/ulyssesyang/Frontend-01-Template/blob/master/week01/,101
+XiChaoMing,"2020-04-15, 22:19:43",,,,,,
+realEago,"2020-04-15, 22:19:47",G20200447010054,翟远航,4班,1组,https://github.com/realEago/Frontend-01-Template/blob/master/week01/,7
+hulingyua,"2020-04-15, 22:20:48",,,,,,
+lucy090110,"2020-04-15, 22:22:04",G20200447010113,李露露,3班,2组,https://github.com/lucy090110/Frontend-01-Template/blob/master/week01/,1
+Qianjunying,"2020-04-15, 22:23:45",G20200447010800,钱俊颖,5 班,9 组,https://github.com/Qianjunying/Frontend-01-Template/blob/master/week01/,105
+zhuguoliangAI,"2020-04-15, 22:25:54",G20200447010354,朱国梁,4班,5组,https://github.com/zhuguoliangAI/Frontend-01-Template/blob/master/week01/,52
+xuyimingwork,"2020-04-15, 22:26:03",G20200447010010,徐一鸣,5班,1组,https://github.com/xuyimingwork/Frontend-01-Template/blob/master/week01/,9
+LingFengloading,"2020-04-15, 22:28:19",G20200447010575,凌枫,5班,7组,https://github.com/LingFengloading/Frontend-01-Template/blob/master/week01/,0
+MichealWind,"2020-04-15, 22:30:30",G20200447010425,李佳仕,5班,5组,https://github.com/MichealWind/Frontend-01-Template/blob/master/week01/,18
+GYunZhi,"2020-04-15, 22:31:14",G20200447010861,龚云志,1班,坚持到底组,https://github.com/GYunZhi/Frontend-01-Template/blob/master/week01/,89
+yinyueying0226,"2020-04-15, 22:32:26",G20200447010806,尹同学,1班,坚持到底组,https://github.com/yinyueying0226/Frontend-01-Template/blob/master/week01/,21
+Zzivh,"2020-04-15, 22:33:22",G20200447010079,张政,4班,1组,https://github.com/Zzivh/Frontend-01-Template/blob/master/week01/,5
+liaochangping,"2020-04-15, 22:33:57",G20200447010347,廖长平,2班,一天不学习就难受,https://github.com/liaochangping/Frontend-01-Template/blob/master/week01/,29
+cl-k,"2020-04-15, 22:33:58",G20190343010452,陈雒,2班,听说你还报了算法？,https://github.com/cl-k/Frontend-01-Template/blob/master/week01/,23
+bscwdg,"2020-04-15, 22:35:27",,,,,,
+bridgeToVillage,"2020-04-15, 22:36:40",G20200447010307,蒋伟,2班,一天不学习就难受,https://github.com/bridgeToVillage/Frontend-01-Template/blob/master/week01/,727
+h6020812,"2020-04-15, 22:36:59",G20200447010848,李元凱,3班,10組,https://github.com/h6020812/Frontend-01-Template/blob/master/week01/,49
+JohnStream,"2020-04-15, 22:38:19",G20200447010109,流乔,4班,2组,https://github.com/JohnStream/Frontend-01-Template/blob/master/week01/,5
+RayHSY,"2020-04-15, 22:39:13",G20200447010932,黄诗悦,2班,江浙沪梯队,https://github.com/RayHSY/Frontend-01-Template/blob/master/week01/,60
+eeBryant,"2020-04-15, 22:39:38",G20190343010270,谢锋,5班,4组,https://github.com/eeBryant/Frontend-01-Template/blob/master/week01/,27
+cokyxu,"2020-04-15, 22:40:41",G20200447010143,徐炳,3班,3组,https://github.com/cokyxu/Frontend-01-Template/blob/master/week01/,122
+soonespresso,"2020-04-15, 22:41:51",G20200447010051,刘泽萱,1班,坚持到底组,https://github.com/soonespresso/Frontend-01-Template/blob/master/week01/,1152
+Thomas080304,"2020-04-15, 22:42:35",G20200447010442,杨涛,2班,罗汉组,https://github.com/Thomas080304/Frontend-01-Template/blob/master/week01/,18
+nbb0101,"2020-04-15, 22:43:52",G20200447010603,南贝贝,3班,8组,https://github.com/nbb0101/Frontend-01-Template/blob/master/week01/,18
+wuzhishuo,"2020-04-15, 22:44:39",G20200447010323,吴志烁,3班,5组,https://github.com/wuzhishuo/Frontend-01-Template/blob/master/week01/,30
+MengQiC,"2020-04-15, 22:45:33",G20200447010046,曹明奇,1班,江浙沪梯队,https://github.com/MengQiC/Frontend-01-Template/blob/master/week01/,2
+softtearsmile,"2020-04-15, 22:46:46",G20200447010943,袁志杰,4班,11组,https://github.com/softtearsmile/Frontend-01-Template/blob/master/week01/,111
+honeyxing,"2020-04-15, 22:50:07",,,,,,
+ZhouSherry,"2020-04-15, 22:50:29",,,,,,
+hongweiQ,"2020-04-15, 22:51:03",G20200447010147,钱宏伟,2班,花生超人,https://github.com/hongweiQ/Frontend-01-Template/blob/master/week01/,126
+ycwsurmount,"2020-04-15, 22:51:15",G20200447010205,易臣威,5班,6组,https://github.com/ycwsurmount/Frontend-01-Template/blob/master/week01/,50
+wpngpeng,"2020-04-15, 22:51:18",G20200447010055,韦力绮,5班,1组,https://github.com/wpngpeng/Frontend-01-Template/blob/master/week01/,43
+LetterMumu,"2020-04-15, 22:51:19",G20200447010100,徐林海,5班,1组,https://github.com/LetterMumu/Frontend-01-Template/blob/master/week01/,5
+ataraxia-a,"2020-04-15, 22:51:28",G20200447010193,李国旗,3班,3组,https://github.com/ataraxia-a/Frontend-01-Template/blob/master/week01/,2
+Fearless0,"2020-04-15, 22:51:40",G20200447010550,瞿旺兴,5班,6组,https://github.com/Fearless0/Frontend-01-Template/blob/master/week01/,122
+MBearo,"2020-04-15, 22:51:57",G20190282010020,�吴玮琦,5班,1组,https://github.com/MBearo/Frontend-01-Template/blob/master/week01/,305
+zhaoyang007,"2020-04-15, 22:51:59",G20200447010746,赵阳,1班,,https://github.com/zhaoyang007/Frontend-01-Template/blob/master/week01/,8
+AboyL,"2020-04-15, 22:52:03",G20200447010292,李峻峰,2班,江浙沪梯队,https://github.com/AboyL/Frontend-01-Template/blob/master/week01/,33
+mollyqq,"2020-04-15, 22:52:13",G20200447010738,祁琪,3班,9组,https://github.com/mollyqq/Frontend-01-Template/blob/master/week01/,21
+KI9I9,"2020-04-15, 22:53:31",G20200447010250,马文,5班,3组,https://github.com/KI9I9/Frontend-01-Template/blob/master/week01/,5
+JamesChen111,"2020-04-15, 22:55:22",G20200447010300,陈彦威,5班,3组,https://github.com/JamesChen111/Frontend-01-Template/blob/master/week01/,1
+zhangfeng2813,"2020-04-15, 22:57:11",G20200447010395,张峰,5班,5组,https://github.com/zhangfeng2813/Frontend-01-Template/blob/master/week01/,169
+crcong,"2020-04-15, 22:57:28",G20200447010299,陈锐聪,4班,4组,https://github.com/crcong/Frontend-01-Template/blob/master/week01/,28
+TurnerXi,"2020-04-15, 22:57:58",G20200447010596,席平川,1班,罗汉组,https://github.com/TurnerXi/Frontend-01-Template/blob/master/week01/,40
+Colinhongle,"2020-04-15, 22:58:05",,,,,,
+huangcan,"2020-04-15, 22:59:27",G20200447010855,黄灿,5班,9组,https://github.com/huangcan/Frontend-01-Template/blob/master/week01/,11
+yfmei,"2020-04-15, 23:01:04",G20200447010259,梅云飞,4班,3组,https://github.com/yfmei/Frontend-01-Template/blob/master/week01/,35
+marslee,"2020-04-15, 23:01:16",G20190343020196,李星辉,1班,你还报了算法？,https://github.com/marslee/Frontend-01-Template/blob/master/week01/,39
+chatWithCat,"2020-04-15, 23:01:59",G20200447010122,郭睿,2班,江浙沪梯队,https://github.com/chatWithCat/Frontend-01-Template/blob/master/week01/,15
+eilis-jung,"2020-04-15, 23:03:09",G20200447010785,Eilis,5班,8组,https://github.com/eilis-jung/Frontend-01-Template/blob/master/week01/,11
+yearnZero,"2020-04-15, 23:05:07",G20200447010586,赵家振,1班,上海梯队,https://github.com/yearnZero/Frontend-01-Template/blob/master/week01/,43
+Leo-lay,"2020-04-15, 23:05:20",G20200447010850,雷永康,5班,8组,https://github.com/Leo-lay/Frontend-01-Template/blob/master/week01/,7
+echoppl,"2020-04-15, 23:05:29",G20200447010632,echo,2班,1组,https://github.com/echoppl/Frontend-01-Template/blob/master/week01/,32
+CohenKewen,"2020-04-15, 23:05:52",G20200447010211,郭万平,1班,罗汉组,https://github.com/CohenKewen/Frontend-01-Template/blob/master/week01/,4
+mangoyi,"2020-04-15, 23:06:07",G20200447010542,易超,2班,这里好多女生呀,https://github.com/mangoyi/Frontend-01-Template/blob/master/week01/,77
+luo-FrontEnd,"2020-04-15, 23:06:43",G20200447010811,罗恒,1班,17组,https://github.com/luo-FrontEnd/Frontend-01-Template/blob/master/week01/,46
+demong89,"2020-04-15, 23:09:30",G20200447010155,郭兴旺,5班,2组,https://github.com/demong89/Frontend-01-Template/blob/master/week01/,12
+qyingkou,"2020-04-15, 23:10:05",G20200447010110,陈启年,5班,2组,https://github.com/qyingkou/Frontend-01-Template/blob/master/week01/,26
+Looper-01,"2020-04-15, 23:10:37",G20200447010288,Looper,3班,4组,https://github.com/Looper-01/Frontend-01-Template/blob/master/week01/,12
+tinyPigOne,"2020-04-15, 23:13:32",G20200447010074,王建,4班,1组,https://github.com/tinyPigOne/Frontend-01-Template/blob/master/week01/,61
+redclown,"2020-04-15, 23:13:37",G20200447010355,王磊,5班,4组,https://github.com/redclown/Frontend-01-Template/blob/master/week01/,22
+Kirito-H,"2020-04-15, 23:14:15",G20200447010340,黄晓洋,5班,4组,https://github.com/Kirito-H/Frontend-01-Template/blob/master/week01/,3
+androidlei,"2020-04-15, 23:14:41",G20200447010471,雷瞳,1班,17组,https://github.com/androidlei/Frontend-01-Template/blob/master/week01/,3
+ssssskye,"2020-04-15, 23:15:09",,,,,,
+onewkl,"2020-04-15, 23:15:50",G20200447010317,梁昊森,2班,扶我起来我还能学,https://github.com/onewkl/Frontend-01-Template/blob/master/week01/,19
+tumbler-in,"2020-04-15, 23:16:51",G20200447010554,不倒翁,4班,7组,https://github.com/tumbler-in/Frontend-01-Template/blob/master/week01/,117
+SnowleopardV,"2020-04-15, 23:18:18",G20200447010915,王赣青,5班,10组,https://github.com/SnowleopardV/Frontend-01-Template/blob/master/week01/,12
+LinqYue,"2020-04-15, 23:18:21",G20200447010897,林大熊,2班,罗汉队,https://github.com/LinqYue/Frontend-01-Template/blob/master/week01/,46
+Rickeyhyq,"2020-04-15, 23:21:17",G20200447010718,贺宇琦,3班,9组,https://github.com/Rickeyhyq/Frontend-01-Template/blob/master/week01/,106
+james-han,"2020-04-15, 23:21:54",G20200447010577,季伟,2班,江浙沪梯队组,https://github.com/james-han/Frontend-01-Template/blob/master/week01/,24
+Nychoc,"2020-04-15, 23:22:46",G20200447010707,倪洋,2班,罗汉队,https://github.com/Nychoc/Frontend-01-Template/blob/master/week01/,4
+ZYStrawberry,"2020-04-15, 23:23:30",G20200447010802,张莹,2班,罗汉队,https://github.com/ZYStrawberry/Frontend-01-Template/blob/master/week01/,15
+LandonJelly,"2020-04-15, 23:23:56",,,,,,
+jy-js,"2020-04-15, 23:24:24",G20200447010093,罗坚元,3班,2组,https://github.com/jy-js/Frontend-01-Template/blob/master/week01/,35
+taoGod,"2020-04-15, 23:27:18",G20200447010549,刘文,4班,7组,https://github.com/taoGod/Frontend-01-Template/blob/master/week01/,158
+kawarake,"2020-04-15, 23:28:45",G20200447010579,焦志杰,4班,8组,https://github.com/kawarake/Frontend-01-Template/blob/master/week01/,10
+OleileiA,"2020-04-15, 23:29:00",G20200447010264,marvin,4班,4组,https://github.com/OleileiA/Frontend-01-Template/blob/master/week01/,8
+kaka-fe,"2020-04-15, 23:29:06",G20200447010194,咔咔,4班,3组,https://github.com/kaka-fe/Frontend-01-Template/blob/master/week01/,38
+C2015,"2020-04-15, 23:29:43",G20200447010775,张松,5班,8组,https://github.com/C2015/Frontend-01-Template/blob/master/week01/,84
+qingmzzz,"2020-04-15, 23:32:21",G20200447010335,刘诗鑫,5班,4组,https://github.com/qingmzzz/Frontend-01-Template/blob/master/week01/,68
+wanmenglei,"2020-04-15, 23:32:42",G20200447010401,万梦磊,1班,广东梯队,,0
+huozhenwei,"2020-04-15, 23:33:12",G20200447010860,霍进,5班,9组,https://github.com/huozhenwei/Frontend-01-Template/blob/master/week01/,5
+hongqx,"2020-04-15, 23:33:53",G20200447010651,JoanStar,1班,1组,https://github.com/hongqx/Frontend-01-Template/blob/master/week01/,157
+huyinglin,"2020-04-15, 23:35:00",G20200447010114,胡迎临,4班,2组,https://github.com/huyinglin/Frontend-01-Template/blob/master/week01/,57
+OPdeng,"2020-04-15, 23:35:17",G20200447010165,邓旭明,5班,2组,https://github.com/OPdeng/Frontend-01-Template/blob/master/week01/,11
+zhouye0211,"2020-04-15, 23:35:44",G20200447010841,周烨,1班,保证交作业组,https://github.com/zhouye0211/Frontend-01-Template/blob/master/week01/,146
+lyxsunner,"2020-04-15, 23:37:12",G20200447010108,李曜旭,3班,2组,https://github.com/lyxsunner/Frontend-01-Template/blob/master/week01/,118
+Si3ver,"2020-04-15, 23:37:35",G20200447010183,周伟林,3班,3组,https://github.com/Si3ver/Frontend-01-Template/blob/master/week01/,53
+yu-lemon,"2020-04-15, 23:37:42",G20200447010546,陈宇,1班,坚持到底,https://github.com/yu-lemon/Frontend-01-Template/blob/master/week01/,6
+SomnusQiu,"2020-04-15, 23:37:43",G20200447010326,须秋炜,1班,这里好多女生呀,https://github.com/SomnusQiu/Frontend-01-Template/blob/master/week01/,22
+wiseqingyang,"2020-04-15, 23:37:57",G20200447010492,王庆洋,2班,北京梯队,https://github.com/wiseqingyang/Frontend-01-Template/blob/master/week01/,24
+licheng514,"2020-04-15, 23:40:24",G20200447010873,李城,3班,10组,https://github.com/licheng514/Frontend-01-Template/blob/master/week01/,1
+blueseasons,"2020-04-15, 23:42:49",G20200447010322,郭帆,2班,上海梯队,https://github.com/blueseasons/Frontend-01-Template/blob/master/week01/,2
+HouNaoshao,"2020-04-15, 23:42:55",G20200447010813,姜展超,3班,10组,https://github.com/HouNaoshao/Frontend-01-Template/blob/master/week01/,8
+qiki08,"2020-04-15, 23:43:04",G20200447010073,王琦,3班,2组,https://github.com/qiki08/Frontend-01-Template/blob/master/week01/,17
+KtfwyCJ,"2020-04-15, 23:44:41",G20200447010877,程晶,2班,江浙沪梯队,https://github.com/KtfwyCJ/Frontend-01-Template/blob/master/week01/,13
+abraint,"2020-04-15, 23:45:10",G20200447010097,雪子,2班,广东梯队,https://github.com/abraint/Frontend-01-Template/blob/master/week01/,0
+KelseyYau,"2020-04-15, 23:45:34",G20200447010378,邱奎元,3班,5组,https://github.com/KelseyYau/Frontend-01-Template/blob/master/week01/,21
+wuxiaojava,"2020-04-15, 23:46:09",G20200447010117,傅锦,前端2班,扶我起来我还能学,https://github.com/wuxiaojava/Frontend-01-Template/blob/master/week01/,5
+daniel0128,"2020-04-15, 23:46:19",G20200447010105,张思维,5班,1组,https://github.com/daniel0128/Frontend-01-Template/blob/master/week01/,89
+Enzo1994,"2020-04-15, 23:46:30",G20200447010091,贯川,1班,北京梯队,https://github.com/Enzo1994/Frontend-01-Template/blob/master/week01/,136
+mrslimslim,"2020-04-15, 23:47:51",G20200447010519,吁腾,4班,7组,https://github.com/mrslimslim/Frontend-01-Template/blob/master/week01/,34
+oceantime,"2020-04-15, 23:49:38",G20190343010634,FY,4班,5组,https://github.com/oceantime/Frontend-01-Template/blob/master/week01/,157
+duqb,"2020-04-15, 23:49:40",G20200447010784,杜庆宾,4班,10组,https://github.com/duqb/Frontend-01-Template/blob/master/week01/,268
+xxy1121,"2020-04-15, 23:50:12",G20200343050130,谢翔宇,5班,8组,https://github.com/xxy1121/Frontend-01-Template/blob/master/week01/,55
+TPORL,"2020-04-15, 23:50:42",G20200447010443,霍耀锋,3班,6组,https://github.com/TPORL/Frontend-01-Template/blob/master/week01/,5
+DanielChan27,"2020-04-15, 23:51:33",G20200447010057,陈天宇,2班,江浙沪梯队,https://github.com/DanielChan27/Frontend-01-Template/blob/master/week01/,53
+hanx666,"2020-04-15, 23:54:00",G20200447010445,魏朝欣,5班,5组,https://github.com/hanx666/Frontend-01-Template/blob/master/week01/,43
+cmnoe,"2020-04-15, 23:54:10",G20200343040160,江彬,5班,7组,https://github.com/cmnoe/Frontend-01-Template/blob/master/week01/,113
+LOCUSTSS,"2020-04-15, 23:54:45",G20200447010407,海少,2班,扶我起来我还能学,https://github.com/LOCUSTSS/Frontend-01-Template/blob/master/week01/,257
+YesBelieve,"2020-04-15, 23:55:00",G20200447010172,蒋银松,2班,江浙沪梯队,https://github.com/YesBelieve/Frontend-01-Template/blob/master/week01/,6
+lxtiscool,"2020-04-15, 23:55:25",G20200447010236,李新天,1班,罗汉组,https://github.com/lxtiscool/Frontend-01-Template/blob/master/week01/,1
+shangwuzhong,"2020-04-15, 23:56:15",G20200447010595,尚武忠,5班,7组,https://github.com/shangwuzhong/Frontend-01-Template/blob/master/week01/,46
+zhangdongming0607,"2020-04-15, 23:57:16",G20190389010004,张三,4班,11组,https://github.com/zhangdongming0607/Frontend-01-Template/blob/master/week01/,1
+gzyEvolto,"2020-04-15, 23:57:31",G20200447010529,高子一,4班,7组,https://github.com/gzyEvolto/Frontend-01-Template/blob/master/week01/,196
+wn90674,"2020-04-15, 23:57:53",G20200447010892,吴宁,2班,罗汉队,https://github.com/wn90674/Frontend-01-Template/blob/master/week01/,10
+cgwhaha1993,"2020-04-15, 23:59:06",G20200447010393,陈国伟,3班,1组,,0
+zhihai07,"2020-04-16, 24:00:25",G20200447010902,熊志海,2班,这里好多女生,,0
+zhushaSARA,"2020-04-16, 24:00:57",G20200447010906,朱蕊寒,1班,北京梯队,https://github.com/zhushaSARA/Frontend-01-Template/blob/master/week01/,1
+royWoody,"2020-04-16, 24:01:59",G20200447010341,武洋,1班,北广深不相信眼泪,https://github.com/royWoody/Frontend-01-Template/blob/master/week01/,3
+seven-zero,"2020-04-16, 24:02:11",G20200447010928,雷睿祺,3班,11组,https://github.com/seven-zero/Frontend-01-Template/blob/master/week01/,11
+zhihai07,"2020-04-16, 24:02:35",G20200447010902,熊志海,2班,这里好多女生,https://github.com/zhihai07/Frontend-01-Template/blob/master/week01/,72
+DukeYang,"2020-04-16, 24:04:14",G20200343040019,刘阳,4班,3组,https://github.com/DukeYang/Frontend-01-Template/blob/master/week01/,2
+Cloudhp,"2020-04-16, 24:04:54",G20200447010607,胡云鹏,2班,北上广深不相信眼泪,https://github.com/Cloudhp/Frontend-01-Template/blob/master/week01/,4
+Jackzigen,"2020-04-16, 24:06:59",G20190343010017,韩梓根,2班,听说你还报了算法？,https://github.com/Jackzigen/Frontend-01-Template/blob/master/week01/,30
+ghcode,"2020-04-16, 24:10:23",G20200447010765,李帅军,5班,8组,https://github.com/ghcode/Frontend-01-Template/blob/master/week01/,3
+Hemingway-AT,"2020-04-16, 24:12:13",G20200447010077,贺海铭,1期2班,一天不学习就难受,https://github.com/Hemingway-AT/Frontend-01-Template/blob/master/week01/,48
+HESUIJUN,"2020-04-16, 24:20:51",,,,,,
+Naruto-lu,"2020-04-16, 24:24:48",G20200447010880,卢荣炜,1期5班,前端1期-5班-9组,https://github.com/Naruto-lu/Frontend-01-Template/blob/master/week01/,3
+PanZhiwei01,"2020-04-16, 24:35:34",,,,,,
+aiyamaya625,"2020-04-16, 24:44:58",G20200447010552,陈晨,2班,江浙沪梯队,https://github.com/aiyamaya625/Frontend-01-Template/blob/master/week01/,231
+gbcnice,"2020-04-16, 24:49:51",G20200447010869,郭柏辰,4班,10组,https://github.com/gbcnice/Frontend-01-Template/blob/master/week01/,1
+bearcharis,"2020-04-16, 24:53:57",G20200447010304,陈磊,4班,4组,https://github.com/bearcharis/Frontend-01-Template/blob/master/week01/,4
+TieriaDM,"2020-04-16, 24:55:26",G20200447010539,邓明,4班,7组,https://github.com/TieriaDM/Frontend-01-Template/blob/master/week01/,29
+fscommlx,"2020-04-16, 02:19:11",G20200447010582,李旭,2班,江浙沪梯队,https://github.com/fscommlx/Frontend-01-Template/blob/master/week01/,32
