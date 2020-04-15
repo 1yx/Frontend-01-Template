@@ -1,0 +1,166 @@
+* HTML
+
+** as 计算机语言
+
+*** 语法
+
+*** 词法
+
+** as SGML
+
+*** DTD
+
+[[w3.org/TR/xhtml1/DTDf/xhtml1-strict.dtd][Extensible HTML version 1.0 Strict DTD]]
+
+*** Entry
+
+[[https://www.w3.org/TR/xhtml1/DTD/xhtml-symbol.ent][Mathematical, Greek and Symbolic characters for XHTML]]
+also see: xhtml-lat1.ent, xhtml-special.ent
+
+** as XML
+
+*** Namespace
+[[http://www.w3.org/1999/xhtml][<html> xmlns attributes]]
+1. svg
+2. mathml
+3. aria
+
+*** Tag
+[[https://html.spec.whatwg.org/multipage/semantics.html][semantics]]
+
+* Javascript
+
+** grammer
+
+*** Lexical grammer
+
+**** InputElement
+***** WhiteSpace
+***** LineTerminator
+***** Comment
+***** Token
+****** IdentifierName
+Identifier & Keywords
+****** Punctuator
+| {   | }    | (   | )   | [   | ]   |
+| .   | ;    | ,   | <   | >   | <=  |
+| >=  | ==   | !=  | === | !== |     |
+| <<  | >>   | >>> | &   | \vert   | ^   |
+| !   | ~    | &&  | \vert\vert  | ?   | :   |
+| =   | +=   | -=  | *=  | %=  | <<= |
+| >>= | >>>= | &=  | \vert=  | ^=  |     |
+| /   | /=   |     |     |     |     |
+****** NumericLiteral
+****** StringLiteral
+****** Template
+
+*** Syntax
+
+**** Atom
+
+**** Expression
+
+**** Structure
+
+**** Script & Module
+
+** semantic
+
+** runtime
+
+*** type
+
+**** Number
+
+**** String
+
+**** Boolean
+
+**** Null
+
+**** Undefined
+
+**** Object
+
+**** Symbol
+
+**** build-in
+
+***** Reference
+
+***** completion
+
+*** job queue
+
+**** Script job
+
+**** Promise job
+
+* CSS
+
+** lex & syntax
+[[w3.org/TR/css-syntax-3]]
+
+** @规则
+
+** 普通规则
+
+*** 选择器
+
+**** 简单选择器
+
+**** 复合选择器
+
+**** 复杂选择器
+
+**** 选择器列表
+
+*** 属性
+
+*** 属性对应的值
+
+** 机制
+
+*** 排版
+
+*** 伪元素
+
+*** 动画
+
+*** 优先级
+
+* API
+
+** Browser
+
+*** DOM
+
+**** Nodes
+
+***** Docment
+
+***** DocumentFragment
+
+***** Element
+
+***** DocumentType
+
+***** Text
+
+***** ProcessingInstruction
+<? key value ?>
+
+***** Comment
+
+**** Ranges
+
+**** Events
+
+*** Web platform api
+
+** node
+
+** Electron
+
+** 小程序
+
