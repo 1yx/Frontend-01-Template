@@ -20,7 +20,7 @@ const LineTerminator = [
 
 const EscapeSequence = [
     CharacterEscapeSequence,
-    '0(?<!\d)',
+    '0(?!\d)',
     HexEscapeSequence,
     UnicodeEscapeSequence
 ].join('|');
@@ -49,7 +49,7 @@ const UnicodeEscapeSequence = `u${HexDigit}{4}`;
 
 const LineContinuation = '\\\\' + LineTerminatorSequence;
 
-const LineTerminatorSequence = `(\r\n)|\n|\r(?<!\n)|\u2028|\u2029`;
+const LineTerminatorSequence = `(\r\n)|${LineTerminator}`;
 
 const SingleStringCharacters = SingleStringCharacter;
 
