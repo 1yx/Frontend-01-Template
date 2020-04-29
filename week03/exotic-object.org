@@ -1,0 +1,21 @@
+* bound funtion
+被另一个函数对象包裹
+* Array object
+对数组的键值提供了特殊的处理方式
+* String object
+封装了String的值，并公开了各个代码单元元素相对应的虚拟整数索引数据属性
+* Arguments exotic object
+数组索引属性映射到与其关联函数的调用的形式参数绑定
+* Integer-Indexed Objects
+对整数索引属性键执行特殊处理。[ [ViewedArrayBuffer] ]，[ [ArrayLength] ]，[ [ByteOffset] ]和[ [TypedArrayName] ]
+* Module Namespace Objects
+公开了导出的模块的绑定
+* Immutable Prototype Objects
+
+#+begin_src javascript
+Object.setPrototypeOf(Object.setPrototypeOf, {x: 616})
+// throw error
+// Uncaught TypeError: Immutable prototype object '#<Object>' cannot have their prototype ...
+#+end_src
+
+为了解决 https://github.com/tc39/ecma262/issues/272 这个问题
