@@ -1,0 +1,118 @@
+[
+    {
+        "name": "CSS Display Module Level 3",
+        "url": "https://www.w3.org/TR/2020/CR-css-display-3-20200519/"
+    },
+    {
+        "name": "CSS Speech Module",
+        "url": "https://www.w3.org/TR/2020/CR-css-speech-1-20200310/"
+    },
+    {
+        "name": "Timed Text Markup Language 2 (TTML2) (2nd Edition)",
+        "url": "https://www.w3.org/TR/2020/CR-ttml2-20200128/"
+    },
+    {
+        "name": "CSS Images Module Level 3",
+        "url": "https://www.w3.org/TR/2019/CR-css-images-3-20191010/"
+    },
+    {
+        "name": "CSS Text Decoration Module Level 3",
+        "url": "https://www.w3.org/TR/2019/CR-css-text-decor-3-20190813/"
+    },
+    {
+        "name": "CSS Writing Modes Level 4",
+        "url": "https://www.w3.org/TR/2019/CR-css-writing-modes-4-20190730/"
+    },
+    {
+        "name": "CSS Syntax Module Level 3",
+        "url": "https://www.w3.org/TR/2019/CR-css-syntax-3-20190716/"
+    },
+    {
+        "name": "CSS Values and Units Module Level 3",
+        "url": "https://www.w3.org/TR/2019/CR-css-values-3-20190606/"
+    },
+    {
+        "name": "CSS Easing Functions Level 1",
+        "url": "https://www.w3.org/TR/2019/CR-css-easing-1-20190430/"
+    },
+    {
+        "name": "WebVTT: The Web Video Text Tracks Format",
+        "url": "https://www.w3.org/TR/2019/CR-webvtt1-20190404/"
+    },
+    {
+        "name": "CSS Scroll Snap Module Level 1",
+        "url": "https://www.w3.org/TR/2019/CR-css-scroll-snap-1-20190319/"
+    },
+    {
+        "name": "CSS Transforms Module Level 1",
+        "url": "https://www.w3.org/TR/2019/CR-css-transforms-1-20190214/"
+    },
+    {
+        "name": "CSS Fragmentation Module Level 3",
+        "url": "https://www.w3.org/TR/2018/CR-css-break-3-20181204/"
+    },
+    {
+        "name": "Geometry Interfaces Module Level 1",
+        "url": "https://www.w3.org/TR/2018/CR-geometry-1-20181204/"
+    },
+    {
+        "name": "CSS Flexible Box Layout Module Level 1",
+        "url": "https://www.w3.org/TR/2018/CR-css-flexbox-1-20181119/"
+    },
+    {
+        "name": "CSS Cascading and Inheritance Level 3",
+        "url": "https://www.w3.org/TR/2018/CR-css-cascade-3-20180828/"
+    },
+    {
+        "name": "CSS Cascading and Inheritance Level 4",
+        "url": "https://www.w3.org/TR/2018/CR-css-cascade-4-20180828/"
+    },
+    {
+        "name": "CSS Painting API Level 1",
+        "url": "https://www.w3.org/TR/2018/CR-css-paint-api-1-20180809/"
+    },
+    {
+        "name": "Encoding",
+        "url": "https://www.w3.org/TR/2018/CR-encoding-20180327/"
+    },
+    {
+        "name": "CSS Grid Layout Module Level 1",
+        "url": "https://www.w3.org/TR/2017/CR-css-grid-1-20171214/"
+    },
+    {
+        "name": "CSS Counter Styles Level 3",
+        "url": "https://www.w3.org/TR/2017/CR-css-counter-styles-3-20171214/"
+    },
+    {
+        "name": "CSS Backgrounds and Borders Module Level 3",
+        "url": "https://www.w3.org/TR/2017/CR-css-backgrounds-3-20171017/"
+    },
+    {
+        "name": "Media Queries Level 4",
+        "url": "https://www.w3.org/TR/2017/CR-mediaqueries-4-20170905/"
+    },
+    {
+        "name": "CSS Custom Properties for Cascading Variables Module Level 1",
+        "url": "http://www.w3.org/TR/2015/CR-css-variables-1-20151203/"
+    },
+    {
+        "name": "CSS Will Change Module Level 1",
+        "url": "http://www.w3.org/TR/2015/CR-css-will-change-1-20151203/"
+    },
+    {
+        "name": "Compositing and Blending Level 1",
+        "url": "http://www.w3.org/TR/2015/CR-compositing-1-20150113/"
+    },
+    {
+        "name": "CSS Masking Module Level 1",
+        "url": "http://www.w3.org/TR/2014/CR-css-masking-1-20140826/"
+    },
+    {
+        "name": "CSS Shapes Module Level 1",
+        "url": "http://www.w3.org/TR/2014/CR-css-shapes-1-20140320/"
+    },
+    {
+        "name": "CSS Conditional Rules Module Level 3",
+        "url": "http://www.w3.org/TR/2013/CR-css3-conditional-20130404/"
+    }
+]

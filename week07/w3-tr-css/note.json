@@ -1,0 +1,26 @@
+[
+    {
+        "name": "TTML Media Type Definition and Profile Registry",
+        "url": "https://www.w3.org/TR/2019/NOTE-ttml-profile-registry-20190411/"
+    },
+    {
+        "name": "CSS Snapshot 2018",
+        "url": "https://www.w3.org/TR/2019/NOTE-css-2018-20190122/"
+    },
+    {
+        "name": "Ready-made Counter Styles",
+        "url": "https://www.w3.org/TR/2017/NOTE-predefined-counter-styles-20170216/"
+    },
+    {
+        "name": "CSS Template Layout Module",
+        "url": "http://www.w3.org/TR/2015/NOTE-css-template-3-20150326/"
+    },
+    {
+        "name": "Requirements for Japanese Text Layout",
+        "url": "http://www.w3.org/TR/2012/NOTE-jlreq-20120403/"
+    },
+    {
+        "name": "CSS Techniques for Web Content Accessibility Guidelines 1.0",
+        "url": "http://www.w3.org/TR/2000/NOTE-WCAG10-CSS-TECHS-20001106/"
+    }
+]
